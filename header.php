@@ -31,7 +31,7 @@
                     <a class="nav-link text-white me-4" href="story.php"> Our Story </a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link text-white me-4" href="shop.php"> Shop</a>
+                    <a class="nav-link text-white me-4" href="shop.php"> Shopee</a>
                   </li>
                  
                  
