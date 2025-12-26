@@ -5,9 +5,9 @@
       <div class="col-lg-3 col-md-6 mb-5">
         <div class="footer-menu">
           <div class="footer-intro mb-2">
-            <h4 class="fs-2 pb-2">Know Ceyluxe</h4>
+            <h4 class="fs-2 pb-2">Know Ceyluxe Co.</h4>
             <p>
-              Ceyluxe brings you authentic Ceylon cinnamon, ethically sourced from Sri Lanka and crafted with care to deliver purity, aroma, and premium quality.
+             Ceyluxe Co brings you authentic Ceylon cinnamon, ethically sourced from Sri Lanka and crafted with care to deliver purity, aroma, and premium quality.
             </p>
             <form id="form" class="mt-4 position-relative d-flex align-items-center">
               <input

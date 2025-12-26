@@ -133,79 +133,6 @@
     </div>
   </div>
 
-  <div class="offcanvas offcanvas-end" data-bs-scroll="true" tabindex="-1" id="offcanvasLogin" aria-labelledby="My Login">
-    <div class="offcanvas-header">
-      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
-    </div>
-    <div class="offcanvas-body">
-      <div class="login-detail">
-        <div class="login-form p-0">
-          <div class="col-lg-12 mx-auto">
-            <form id="login-form">
-              <input type="text" name="username" placeholder="Username or Email Address *" class="mb-3 ps-3 text-input w-100">
-              <input type="password" name="password" placeholder="Password" class="ps-3 text-input w-100">
-              <div class="checkbox d-flex justify-content-between mt-4">
-                <p class="checkbox-form">
-                  <label class="">
-                    <input name="rememberme" type="checkbox" id="remember-me" value="forever"> Remember me </label>
-                </p>
-                <p class="lost-password">
-                  <a href="#">Forgot your password?</a>
-                </p>
-              </div>
-            </form>
-          </div>
-        </div>
-        <div class="modal-footer mt-5 d-flex justify-content-center">
-          <button type="button" class="btn btn-primary w-100 mb-2">Login</button>
-          <button type="button" class="btn btn-outline-primary w-100">Register</button>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="offcanvas offcanvas-end" data-bs-scroll="true" tabindex="-1" id="offcanvasCart" aria-labelledby="My Cart">
-    <div class="offcanvas-header">
-      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
-    </div>
-    <div class="offcanvas-body">
-      <div class="order-md-last">
-        <h4 class="d-flex justify-content-between align-items-center mb-3">
-          <span class="text-primary">Your Cart</span>
-          <span class="badge bg-primary rounded-pill">3</span>
-        </h4>
-        <ul class="list-group mb-3">
-          <li class="list-group-item d-flex justify-content-between lh-sm">
-            <div>
-              <h6 class="my-0">Roselle ceramic</h6>
-              <small class="text-body-secondary">Brief description</small>
-            </div>
-            <span class="text-body-secondary">$12</span>
-          </li>
-          <li class="list-group-item d-flex justify-content-between lh-sm">
-            <div>
-              <h6 class="my-0">Apple Flower ceramic</h6>
-              <small class="text-body-secondary">Brief description</small>
-            </div>
-            <span class="text-body-secondary">$14</span>
-          </li>
-          <li class="list-group-item d-flex justify-content-between lh-sm">
-            <div>
-              <h6 class="my-0">Honey ceramic</h6>
-              <small class="text-body-secondary">Brief description</small>
-            </div>
-            <span class="text-body-secondary">$12</span>
-          </li>
-          <li class="list-group-item d-flex justify-content-between">
-            <span>Total (USD)</span>
-            <strong>$38</strong>
-          </li>
-        </ul>
-        <button class="w-100 btn btn-primary btn-lg" type="submit">Continue to Checkout</button>
-      </div>
-    </div>
-  </div>
-
    <!-- header start -->
     <?php include 'header.php'; ?>
     <!-- header end -->
@@ -233,7 +160,7 @@
     <div class="row">
       <div class="col-lg-6 col-md-6">
         <div class="product-preview mb-3" data-aos="fade-left">
-          <img src="images/product-item3.jpg" alt="single-product" class="img-fluid">
+          <img src="images/product-item3.webp" alt="single-product" class="img-fluid">
         </div>
       </div>
 
@@ -352,7 +279,7 @@
                 <div class="col-lg-6 d-flex flex-wrap">
                   <div class="col-md-2">
                     <div class="image-holder mb-3">
-                      <img src="images/review-item1.jpg" alt="review" class="img-fluid">
+                      <img src="images/review-item1.webp" alt="review" class="img-fluid">
                     </div>
                   </div>
                   <div class="col-md-9">
@@ -390,7 +317,7 @@
                 <div class="col-lg-6 d-flex flex-wrap">
                   <div class="col-md-2">
                     <div class="image-holder mb-3">
-                      <img src="images/review-item2.jpg" alt="review" class="img-fluid">
+                      <img src="images/review-item2.webp" alt="review" class="img-fluid">
                     </div>
                   </div>
                   <div class="col-md-9">
@@ -437,7 +364,7 @@
     <?php include 'best-sell.php'; ?>
     <!-- Best Sell end -->
 
-<section id="class" class="video overflow-hidden position-relative" style="background-image: url(images/blog-item.jpg); background-repeat: no-repeat; background-position: center; background-attachment: fixed; width: 100%; height: 682px;">
+<section id="class" class="video overflow-hidden position-relative" style="background-image: url(images/blog-item.webp); background-repeat: no-repeat; background-position: center; background-attachment: fixed; width: 100%; height: 682px;">
   <div class="row">
     <div class="post-content position-absolute top-50 start-50 translate-middle d-flex justify-content-center align-items-center">
       <div class="display-header text-center text-light">

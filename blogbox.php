@@ -8,7 +8,7 @@
     <div class="row align-items-center mt-5">
       <div class="col-lg-4 col-md-6">
         <div class="post-media mb-3" data-aos="fade-up">
-          <img src="images/post-item1.jpg" alt="post" class="img-fluid">
+          <img src="images/post-item1.webp" alt="post" class="img-fluid">
           <div class="post-content">
             <h3 class="fs-4 my-4 mb-2 text-capitalize">
               <a href="blog-inner.php" >The Journey of True Ceylon Cinnamon</a>
@@ -27,7 +27,7 @@
 
       <div class="col-lg-4 col-md-6">
         <div class="post-media mb-3" data-aos="fade-up">
-          <img src="images/post-item2.jpg" alt="post" class="img-fluid">
+          <img src="images/post-item2.webp" alt="post" class="img-fluid">
           <div class="post-content">
             <h3 class="fs-4 my-4 mb-2 text-capitalize">
               <a href="blog-inner.php">Why Hand-Peeled Cinnamon Matters</a>
@@ -46,7 +46,7 @@
       
       <div class="col-lg-4 col-md-6">
         <div class="post-media mb-3" data-aos="fade-up">
-          <img src="images/post-item3.jpg" alt="post" class="img-fluid">
+          <img src="images/post-item3.webp" alt="post" class="img-fluid">
           <div class="post-content">
             <h3 class="fs-4 my-4 mb-2 text-capitalize">
               <a href="blog-inner.php">Health Benefits of True Ceylon Cinnamon</a>
@@ -65,7 +65,7 @@
 
       <!-- <div class="col-lg-4 col-md-6">
         <div class="post-media mb-3">
-          <img src="images/post-item2.jpg" alt="post" class="img-fluid">
+          <img src="images/post-item2.webp" alt="post" class="img-fluid">
           <div class="post-content">
             <h3 class="fs-4 my-4 mb-2 text-capitalize">
               <a href="blog-inner.php">Health Benefits of True Ceylon Cinnamon</a>

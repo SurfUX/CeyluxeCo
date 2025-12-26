@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <title>Ceyluxe</title>
+  <title>Ceyluxe Co</title>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -138,86 +138,13 @@
     </div>
   </div>
 
-  <div class="offcanvas offcanvas-end" data-bs-scroll="true" tabindex="-1" id="offcanvasLogin"
-    aria-labelledby="My Login">
-    <div class="offcanvas-header">
-      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
-    </div>
-    <div class="offcanvas-body">
-      <div class="login-detail">
-        <div class="login-form p-0">
-          <div class="col-lg-12 mx-auto">
-            <form id="login-form">
-              <input type="text" name="username" placeholder="Username or Email Address *"
-                class="mb-3 ps-3 text-input w-100">
-              <input type="password" name="password" placeholder="Password" class="ps-3 text-input w-100">
-              <div class="checkbox d-flex justify-content-between mt-4">
-                <p class="checkbox-form">
-                  <label class="">
-                    <input name="rememberme" type="checkbox" id="remember-me" value="forever"> Remember me </label>
-                </p>
-                <p class="lost-password">
-                  <a href="#">Forgot your password?</a>
-                </p>
-              </div>
-            </form>
-          </div>
-        </div>
-        <div class="modal-footer mt-5 d-flex justify-content-center">
-          <button type="button" class="btn btn-primary w-100 mb-2">Login</button>
-          <button type="button" class="btn btn-outline-primary w-100">Register</button>
-        </div>
-      </div>
-    </div>
-  </div>
 
-  <div class="offcanvas offcanvas-end" data-bs-scroll="true" tabindex="-1" id="offcanvasCart" aria-labelledby="My Cart">
-    <div class="offcanvas-header">
-      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
-    </div>
-    <div class="offcanvas-body">
-      <div class="order-md-last">
-        <h4 class="d-flex justify-content-between align-items-center mb-3">
-          <span class="text-primary">Your Cart</span>
-          <span class="badge bg-primary rounded-pill">3</span>
-        </h4>
-        <ul class="list-group mb-3">
-          <li class="list-group-item d-flex justify-content-between lh-sm">
-            <div>
-              <h6 class="my-0">Roselle ceramic</h6>
-              <small class="text-body-secondary">Brief description</small>
-            </div>
-            <span class="text-body-secondary">$12</span>
-          </li>
-          <li class="list-group-item d-flex justify-content-between lh-sm">
-            <div>
-              <h6 class="my-0">Apple Flower ceramic</h6>
-              <small class="text-body-secondary">Brief description</small>
-            </div>
-            <span class="text-body-secondary">$14</span>
-          </li>
-          <li class="list-group-item d-flex justify-content-between lh-sm">
-            <div>
-              <h6 class="my-0">Honey ceramic</h6>
-              <small class="text-body-secondary">Brief description</small>
-            </div>
-            <span class="text-body-secondary">$12</span>
-          </li>
-          <li class="list-group-item d-flex justify-content-between">
-            <span>Total (USD)</span>
-            <strong>$38</strong>
-          </li>
-        </ul>
-        <button class="w-100 btn btn-primary btn-lg" type="submit">Continue to Checkout</button>
-      </div>
-    </div>
-  </div>
 
     <!-- header start -->
     <?php include 'header.php'; ?>
     <!-- header end -->
 
-  <section id="intro" class="position-relative overflow-hidden background"
+  <!-- <section id="intro" class="position-relative overflow-hidden background"
     style="">
     <div class="container-lg">
       <div class="row">
@@ -237,8 +164,47 @@
         </div>
       </div>
     </div>
-  </section>
-  <section class="py-lg-5" id="company-services">
+  </section> -->
+  <section class="video-hero">
+
+  <!-- Background Video -->
+  <video class="video-bg" autoplay muted loop playsinline>
+    <source src="images/ceyluxe.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+
+  <!-- Dark overlay -->
+  <div class="video-overlay">
+      
+         <div class="text-center">
+           <h1 class="display-1 text-white text-capitalize mb-2" data-aos="fade-up">
+            Pure Ceylon Cinnamon, Crafted by Nature
+          </h1>
+
+          <p class="fs-5 text-white mb-4" data-aos="fade-up">
+            Naturally pure. Ethically sourced. Expertly crafted in Sri Lanka for those who value true quality.
+          </p>
+
+          <a href="shop.php" class="btn btn-lg btn-light" data-aos="fade-up">
+            Explore Our Collection
+          </a>
+         </div>
+  </div>
+
+  <!-- Top Content -->
+  <div class="hero-top-content">
+    <div class="container-lg">
+      <div class="row">
+        <div class="col-lg-12 col-md-12">
+        
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+</section>
+<section class="py-lg-5" id="company-services">
   <div class="container-lg">
     <div class="row" >
 
@@ -285,19 +251,21 @@
   </div>
 </section>
 
+
+
   <section id="about" class="py-lg-5 pt-lg-0">
     <div class="container-lg">
       <div class="row align-items-center">
         <div class="col-lg-6" >
           <figure class="image-holder mb-5 jarallax" data-aos="fade-right">
-            <img src="images/single-image1.jpg" alt="ceramic" class="jarallax-img">
+            <img src="images/single-image1.webp" alt="ceramic" class="jarallax-img">
           </figure>
         </div>
         <div class="col-lg-6">
           <div class="detail-entry px-4">
             <h4 class="fs-6" data-aos="fade-left">OUR PHILOSOPHY</h4>
             <h3 class="mt-0 mb-4 fs-2" data-aos="fade-left">"Crafted with Care, Rooted in Sri Lanka"</h3>
-            <p data-aos="fade-left">At Ceyluxe, we are committed to delivering the finest true Ceylon cinnamon, carefully sourced from Sri Lanka and crafted with respect for tradition and nature. Every bundle reflects purity, rich aroma, and exceptional quality.</p>
+            <p data-aos="fade-left">At Ceyluxe Co, we are committed to delivering the finest true Ceylon cinnamon, carefully sourced from Sri Lanka and crafted with respect for tradition and nature. Every bundle reflects purity, rich aroma, and exceptional quality.</p>
             <p data-aos="fade-left">By blending generations of expertise with modern standards, we create products that elevate everyday moments while honoring the heritage behind every harvest.</p>
             
             <a href="about-us.php" class="btn btn-lg btn-dark mt-4" data-aos="fade-left">Know More</a>
@@ -352,7 +320,7 @@
           <div class="detail-entry px-4">
             <h4 class="fs-6" data-aos="fade-right">OUR HERITAGE</h4>
             <h3 class="mt-0 mb-4 fs-2 " data-aos="fade-right">"The Most Exquisite Cinnamon, Rooted in Sri Lanka"</h3>
-            <p data-aos="fade-right">At Ceyluxe, we source our cinnamon exclusively from Sri Lanka, home to the world’s finest true Ceylon cinnamon. Carefully harvested and expertly prepared, each bundle delivers a delicate aroma, natural sweetness, and uncompromising purity.</p>
+            <p data-aos="fade-right">At Ceyluxe Co, we source our cinnamon exclusively from Sri Lanka, home to the world’s finest true Ceylon cinnamon. Carefully harvested and expertly prepared, each bundle delivers a delicate aroma, natural sweetness, and uncompromising purity.</p>
             <p data-aos="fade-right">Guided by tradition and elevated by modern quality standards, our cinnamon is trusted for its rich flavor and proven health benefits—making it the conscious choice for those who value authenticity and excellence.</p>
             
             <a href="shop.php" data-aos="fade-right" class="btn btn-lg btn-dark">Know More</a>
@@ -360,7 +328,7 @@
         </div>
           <div class="col-lg-6 mmt-50">
           <figure class="image-holder mb-5 jarallax" data-aos="fade-left">
-            <img src="images/single-image2.jpg" alt="ceramic" class="jarallax-img">
+            <img src="images/single-image2.webp" alt="ceramic" class="jarallax-img">
           </figure>
         </div>
       </div>

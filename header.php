@@ -10,7 +10,7 @@
             </svg>
           </button>
           <a href="index.php" class="navbar-brand order-2 order-lg-2 d-flex d-lg-none">
-            <img src="images/main-logo.png" class="logo" alt="Logo">
+            <img src="images/main-logo.webp" class="logo" alt="Logo">
           </a>
           <div class="offcanvas offcanvas-end order-3" tabindex="-1" id="bdNavbar"
             aria-labelledby="bdNavbarOffcanvasLabel">
@@ -28,7 +28,7 @@
                     <a class="nav-link text-white me-4" href="about-us.php"> About Us </a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link text-white me-4" href="story.php"> Our Story </a>
+                    <a class="nav-link text-white me-4" href="story.php"> Wonder Spice </a>
                   </li>
                   <li class="nav-item">
                     <a class="nav-link text-white me-4" href="shop.php"> Shop</a>
@@ -38,7 +38,7 @@
                 </ul>
               </div>
               <a href="index.html" class="navbar-brand order-2 order-lg-2 d-none d-lg-flex">
-                <img src="images/main-logo.png" class="logo" alt="Logo">
+                <img src="images/main-logo.webp" class="logo" alt="Logo">
               </a>
               <div class="navbar-collapse order-3 order-lg-3 d-lg-flex justify-content-end align-items-center" id="navbarMenu">
                 <ul class="navbar-nav mr-auto">

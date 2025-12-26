@@ -25,7 +25,7 @@
               <div class="swiper-slide image-zoom-effect">
                 <div class="product-item mx-auto">
                   <div class="image-holder mb-2">
-                    <img src="images/product-item6.png" alt="ceramic" class="img-fluid">
+                    <img src="images/product-item6.webp" alt="ceramic" class="img-fluid">
                   </div>
                   <div class="product-info text-center">
                     <h3 class="  m-0">
@@ -39,7 +39,7 @@
               <div class="swiper-slide image-zoom-effect">
                 <div class="product-item mx-auto">
                   <div class="image-holder mb-2">
-                    <img src="images/product-item2.jpg" alt="ceramic" class="img-fluid">
+                    <img src="images/product-item2.webp" alt="ceramic" class="img-fluid">
                   </div>
                   <div class="product-info text-center">
                     <h3 class="  m-0">
@@ -52,7 +52,7 @@
                <div class="swiper-slide image-zoom-effect">
                 <div class="product-item mx-auto">
                   <div class="image-holder mb-2">
-                    <img src="images/product-item3.jpg" alt="ceramic" class="img-fluid">
+                    <img src="images/product-item3.webp" alt="ceramic" class="img-fluid">
                   </div>
                   <div class="product-info text-center">
                     <h3 class="  m-0">
@@ -65,7 +65,7 @@
                <div class="swiper-slide image-zoom-effect">
                 <div class="product-item mx-auto">
                   <div class="image-holder mb-2">
-                    <img src="images/product-item5.jpg" alt="ceramic" class="img-fluid">
+                    <img src="images/product-item5.webp" alt="ceramic" class="img-fluid">
                   </div>
                   <div class="product-info text-center">
                     <h3 class="  m-0">
@@ -78,7 +78,7 @@
               <div class="swiper-slide image-zoom-effect">
                 <div class="product-item mx-auto">
                   <div class="image-holder mb-2">
-                    <img src="images/product-item6.png" alt="ceramic" class="img-fluid">
+                    <img src="images/product-item6.webp" alt="ceramic" class="img-fluid">
                   </div>
                   <div class="product-info text-center">
                     <h3 class="  m-0">
@@ -92,7 +92,7 @@
               <div class="swiper-slide image-zoom-effect">
                 <div class="product-item mx-auto">
                   <div class="image-holder mb-2">
-                    <img src="images/product-item2.jpg" alt="ceramic" class="img-fluid">
+                    <img src="images/product-item2.webp" alt="ceramic" class="img-fluid">
                   </div>
                   <div class="product-info text-center">
                     <h3 class="  m-0">
@@ -105,7 +105,7 @@
                <div class="swiper-slide image-zoom-effect">
                 <div class="product-item mx-auto">
                   <div class="image-holder mb-2">
-                    <img src="images/product-item3.jpg" alt="ceramic" class="img-fluid">
+                    <img src="images/product-item3.webp" alt="ceramic" class="img-fluid">
                   </div>
                   <div class="product-info text-center">
                     <h3 class="  m-0">
@@ -118,7 +118,7 @@
                <div class="swiper-slide image-zoom-effect">
                 <div class="product-item mx-auto">
                   <div class="image-holder mb-2">
-                    <img src="images/product-item5.jpg" alt="ceramic" class="img-fluid">
+                    <img src="images/product-item5.webp" alt="ceramic" class="img-fluid">
                   </div>
                   <div class="product-info text-center">
                     <h3 class="  m-0">

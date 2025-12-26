@@ -229,27 +229,27 @@
     <div class="row align-items-center">
       <div class="col-lg-5">
         <figure class="image-holder mb-5 jarallax" data-aos="fade-right" >
-          <img src="images/single-image3.png" alt="Ceylon Cinnamon" class="jarallax-img">
+          <img src="images/single-image3.webp" alt="Ceylon Cinnamon" class="jarallax-img">
         </figure>
       </div>
       <div class="col-lg-7">
-        <div class="detail-entry px-4">
+        <div class="detail-entry ">
           <h4 class="fs-6" data-aos="fade-left">The World’s Most Prestigious Spice</h4>
           <h3 class="mt-0 mb-4 fs-2" data-aos="fade-left">Ceylon Cinnamon: The true Wonder Spice</h3>
           <p data-aos="fade-left">
           Welcome to the world of Ceylon cinnamon, often referred to as ‘true cinnamon,’ which has
-no equal—a spice whose origins and prestige set it apart from others. Renowned for its
-delicate flavor and myriad health benefits, Ceylon cinnamon is a staple for culinary
-enthusiasts and health aficionados alike.
+          no equal—a spice whose origins and prestige set it apart from others. Renowned for its
+          delicate flavor and myriad health benefits, Ceylon cinnamon is a staple for culinary
+          enthusiasts and health aficionados alike.
           </p>
           <p data-aos="fade-left">
             Harvesting, preparing, peeling, and quilling cinnamon is a demanding craft that time-demand
-great skill, experience, and commitment. It takes weeks of effort from harvesting to
-completion of batch of cinnamon. While this age-old tradition continues to produce
-exceptional cinnamon with the same quality, authenticity, and refinement once treasured by
-ancient civilizations. Unlike cassia, which is thicker and coarser, Ceylon cinnamon’s fine,
-paper-thin layers and subtle sweetness are results of a craft rooted in patience, tradition, and
-deep expertise.
+            great skill, experience, and commitment. It takes weeks of effort from harvesting to
+            completion of batch of cinnamon. While this age-old tradition continues to produce
+            exceptional cinnamon with the same quality, authenticity, and refinement once treasured by
+            ancient civilizations. Unlike cassia, which is thicker and coarser, Ceylon cinnamon’s fine,
+            paper-thin layers and subtle sweetness are results of a craft rooted in patience, tradition, and
+            deep expertise.
           </p data-aos="fade-left">
           <ul data-aos="fade-left">
             <li>Scientific name: Cinnamomum zeylanicum</li>
@@ -264,7 +264,7 @@ deep expertise.
 
     <div class="row align-items-center">
       <div class="col-lg-7">
-        <div class="detail-entry px-4">
+        <div class="detail-entry ">
          <h3 class="mt-0 mb-4 fs-2" data-aos="fade-right"> A Spice That Once Held Greater Value Than Silver or Gold</h3> 
           <p data-aos="fade-right">
            Ceylon cinnamon has been cherished for thousands of years, with records of its use dating
@@ -285,7 +285,7 @@ deep expertise.
       </div>
       <div class="col-lg-5">
         <figure class="image-holder mb-5 jarallax" data-aos="fade-left">
-          <img src="images/single-image4.png" alt="Cinnamon Quills" class="jarallax-img">
+          <img src="images/single-image4.webp" alt="Cinnamon Quills" class="jarallax-img">
         </figure>
       </div>
     </div>
@@ -345,7 +345,7 @@ deep expertise.
         <div class="row">
           <div class="col-md-12">
             <figure class="image-holder mb-5 " data-aos="fade-right">
-              <img src="images/old.jpg" alt="Cinnamon Heritage" class="jarallax-img old-img">
+              <img src="images/old.webp" alt="Cinnamon Heritage" class="jarallax-img old-img">
             </figure>
           </div>
          
@@ -353,25 +353,25 @@ deep expertise.
       </div>
 
       <div class="col-lg-7">
-        <div class="detail-entry px-4" >
+        <div class="detail-entry " >
          <h4 class="fs-6" data-aos="fade-left">A Spice That Once Held Greater Value Than Silver or Gold</h4> 
           <h3 class="mt-0 mb-4 fs-2" data-aos="fade-left">Ancient Origins and Legendary Status</h3>
           <p data-aos="fade-left">
             Ceylon cinnamon has been cherished for thousands of years, with records of its use dating
-back to around 2800 BC. Ancient Egyptians used it in rituals, perfumery, and embalming,
-while Greeks and Romans valued it as a luxurious gift, often considered as precious as gold,
-silver, or gemstones. 
+            back to around 2800 BC. Ancient Egyptians used it in rituals, perfumery, and embalming,
+            while Greeks and Romans valued it as a luxurious gift, often considered as precious as gold,
+            silver, or gemstones. 
 
           </p>
           <p data-aos="fade-left">
            Even King Solomon (circa 970–931 BC) counted cinnamon among his
-treasures, sending fleets to Tarshish (present-day Galle, Sri Lanka) to acquire fresh supplies.
-Its delicate fragrance, exquisite taste, and mysterious origin inspired long oceanic voyages,
-shaped early trade routes, and fueled fascination across civilizations. 
+            treasures, sending fleets to Tarshish (present-day Galle, Sri Lanka) to acquire fresh supplies.
+            Its delicate fragrance, exquisite taste, and mysterious origin inspired long oceanic voyages,
+            shaped early trade routes, and fueled fascination across civilizations. 
           <p data-aos="fade-left">
-       Arab and Asian
-merchants carefully guarded the source of true cinnamon, enhancing its mystique and making
-it one of the most coveted spices of the ancient world.
+                Arab and Asian
+          merchants carefully guarded the source of true cinnamon, enhancing its mystique and making
+          it one of the most coveted spices of the ancient world.
           </p>
           
 
@@ -388,18 +388,18 @@ it one of the most coveted spices of the ancient world.
       
 
       <div class="col-lg-7">
-        <div class="detail-entry px-4">
+        <div class="detail-entry ">
          <!-- <h4 class="fs-6">A Spice That Once Held Greater Value Than Silver or Gold</h4>  -->
           <h3 class="mt-0 mb-4 fs-2" data-aos="fade-right">Portuguese Exploration <br> (Early 1500s – Mid 1600s CE)</h3>
           <p data-aos="fade-right">
-           European interest in Ceylon cinnamon began with Portuguese explorers in the early 16th
-century CE. They established trading posts along the island’s coast, securing control over the
-spice and exporting it to European markets. 
+                    European interest in Ceylon cinnamon began with Portuguese explorers in the early 16th
+          century CE. They established trading posts along the island’s coast, securing control over the
+          spice and exporting it to European markets. 
 
           </p>
           <p data-aos="fade-right">
-         This marked the beginning of large-scale
-international trade and introduced Ceylon cinnamon as a luxury commodity in the West.
+                  This marked the beginning of large-scale
+          international trade and introduced Ceylon cinnamon as a luxury commodity in the West.
           <p>
       
           
@@ -411,7 +411,7 @@ international trade and introduced Ceylon cinnamon as a luxury commodity in the 
         <div class="row">
           <div class="col-md-12">
             <figure class="image-holder mb-5 " data-aos="fade-left">
-              <img src="images/old1.jpg" alt="Cinnamon Heritage" class="jarallax-img old-imgs">
+              <img src="images/old1.webp" alt="Cinnamon Heritage" class="jarallax-img old-imgs">
             </figure>
           </div>
          
@@ -428,7 +428,7 @@ international trade and introduced Ceylon cinnamon as a luxury commodity in the 
         <div class="row">
           <div class="col-md-12">
             <figure class="image-holder mb-5 " data-aos="fade-right">
-              <img src="images/old2.jpg" alt="Cinnamon Heritage" class="jarallax-img old-imgs">
+              <img src="images/old2.webp" alt="Cinnamon Heritage" class="jarallax-img old-imgs">
             </figure>
           </div>
          
@@ -436,20 +436,20 @@ international trade and introduced Ceylon cinnamon as a luxury commodity in the 
       </div>
 
       <div class="col-lg-7">
-        <div class="detail-entry px-4">
+        <div class="detail-entry ">
          <!-- <h4 class="fs-6">A Spice That Once Held Greater Value Than Silver or Gold</h4>  -->
           <h3 class="mt-0 mb-4 fs-2" data-aos="fade-left">Dutch Control 
- <br>(Mid 1600s – Late 1700s CE)</h3>
+          <br>(Mid 1600s – Late 1700s CE)</h3>
           <p data-aos="fade-left">
-          In the 17th century, the Dutch East India company took control of the cinnamon trade,
-establishing a monopoly over its production. They implemented stringent measures to
-oversee cultivation and export, reinforcing their influence in the region.
+                    In the 17th century, the Dutch East India company took control of the cinnamon trade,
+          establishing a monopoly over its production. They implemented stringent measures to
+          oversee cultivation and export, reinforcing their influence in the region.
 
           </p>
           <p data-aos="fade-left">
-         During this period,
-Ceylon cinnamon’s unique properties were further recognized, setting up apart from other
-cinnamon varieties, particularly cassia. 
+                    During this period,
+            Ceylon cinnamon’s unique properties were further recognized, setting up apart from other
+            cinnamon varieties, particularly cassia. 
           <p>
       
           
@@ -468,18 +468,18 @@ cinnamon varieties, particularly cassia.
       
 
       <div class="col-lg-7">
-        <div class="detail-entry px-4">
+        <div class="detail-entry ">
          <!-- <h4 class="fs-6">A Spice That Once Held Greater Value Than Silver or Gold</h4>  -->
           <h3 class="mt-0 mb-4 fs-2" data-aos="fade-right">British Colonization<br>  (Late 1700s – 1800s CE)</h3>
           <p data-aos="fade-right">
            When the British assumed control of the island, cinnamon cultivation and export continued
-on a global scale. 
+            on a global scale. 
 
           </p>
           <p data-aos="fade-right"> 
-         While its monopoly gradually declined due to the rise of other crops and
-expanded trade, the exceptional aroma, flavor, and heritage of Ceylon cinnamon remained
-unchanged, preserving its status as a spice of legendary value.
+            While its monopoly gradually declined due to the rise of other crops and
+            expanded trade, the exceptional aroma, flavor, and heritage of Ceylon cinnamon remained
+            unchanged, preserving its status as a spice of legendary value.
 
           <p>
       
@@ -492,7 +492,7 @@ unchanged, preserving its status as a spice of legendary value.
         <div class="row">
           <div class="col-md-12">
             <figure class="image-holder mb-5 " data-aos="fade-left">
-              <img src="images/old3.jpg" alt="Cinnamon Heritage" class="jarallax-img old-imgs">
+              <img src="images/old3.webp" alt="Cinnamon Heritage" class="jarallax-img old-imgs">
             </figure>
           </div>
          
@@ -502,6 +502,175 @@ unchanged, preserving its status as a spice of legendary value.
   </div>
 </section>
 
+<section id="about" class="">
+  <div class="container-lg">
+    <div class="row">
+      
+
+      <div class="col-lg-12">
+        <div class="detail-entry ">
+         <!-- <h4 class="fs-6">A Spice That Once Held Greater Value Than Silver or Gold</h4>  -->
+          <h3 class="mt-0 mb-4 fs-2" data-aos="fade-right">Is the Cinnamon you are using really cinnamon ? </h3>
+          <p data-aos="fade-right">Is the “cinnamon” in your kitchen really cinnamon, or is it something else entirely? Most of
+              the world knows cinnamon as a single warm, comforting spice, but in reality, there are two
+              very different spices hiding behind that one familiar name: cassia and Ceylon. While they
+              may look similar at a glance, they differ in origin, aroma, flavor, and how gently they treat
+              your body over time. This guide unpacks those differences, so you can clearly see why
+              Ceylon is often called “true cinnamon” and decide which one truly deserves a place in your
+              daily rituals.
+          </p>
+         </div>
+      </div>
+      
+    </div>
+    <div class="row">
+          <div class="col-md-12">
+            <figure class="image-holder mb-5 py-lg-5 " data-aos="fade-left">
+              <img src="images/cinomon.webp" alt="Cinnamon Heritage" class="jarallax-img full-img">
+            </figure>
+          </div>
+         
+        </div>
+  </div>
+</section>
+
+<section id="about" class="">
+  <div class="container-lg">
+    <div class="row">
+       <div class="col-lg-5">
+        <div class="row">
+          <div class="col-md-12">
+            <figure class="image-holder mb-5 " data-aos="fade-left">
+              <img src="images/spices.webp" alt="Cinnamon Heritage" class="jarallax-img full-img">
+            </figure>
+          </div>
+         
+        </div>
+      </div>
+       <div class="col-lg-7">
+        <div class="detail-entry ">
+         <!-- <h4 class="fs-6">A Spice That Once Held Greater Value Than Silver or Gold</h4>  -->
+          <h3 class="mt-0 mb-4 fs-2" data-aos="fade-right">Health Benefits.</h3>
+           <ul data-aos="fade-left">
+            <li>Antioxidants: Rich in antioxidants that protect against cell damage.</li>
+            <li>Anti-Inflammatory: Helps reduce inflammation in the body.</li>
+            <li>Blood Sugar Control: Improves insulin sensitivity and lowers blood sugar levels. (
+              Anti-type 2 diabetes). </li>
+            <li>Heart Health: May reduce cholesterol and blood pressure.</li>
+            <li>Antimicrobial: Fights bacteria and fungi, aiding in infection prevention.</li>
+             <li>Digestive Aid: Alleviates bloating and gas, promoting healthy digestion.</li>
+             <li>Brain Protection: May help protect against neurodegenerative diseases.</li>
+             <li>Weight Management: Supports metabolism and helps with fat burning.</li>
+             <li>Hormonal Balance: Can improve hormone regulation, beneficial for women with
+              PCOS.</li>
+          </ul>
+         
+      
+          
+
+        
+          </div>
+        </div>
+      </div>
+    </div>
+</section>
+
+<section id="about" class="">
+  <div class="container-lg">
+    <div class="row">
+      
+
+      <div class="col-lg-12">
+        <div data-aos="fade-right" class="detail-entry ">
+          <h3 class="mt-0 mb-4 fs-2">
+            Better Uses for Ceylon Cinnamon Sticks in Food and Drinks
+          </h3>
+
+        <!-- Flavour Infusion for Beverages -->
+        <p class="common-subheading">Flavour Infusion for Beverages</p>
+        <p>Teas: Steep a cinnamon stick in your herbal or black tea for added warmth.</p>
+        <p>Coffee: Stir your coffee with a cinnamon stick for a flavourful twist.</p>
+        <p>Hot Chocolate: Use it to stir hot chocolate for a delicious hint of spice.</p>
+
+        <!-- Mulled Drinks -->
+        <p class="common-subheading">Mulled Drinks</p>
+        <p>Mulled Wine: Add cinnamon sticks to red wine with spices and citrus for a cosy drink.</p>
+        <p>Mulled Cider: Simmer apple cider with cinnamon sticks for a warming treat.</p>
+
+        <!-- Cooking -->
+        <p class="common-subheading">Cooking</p>
+        <p>Soups and Stews: Add a cinnamon stick while cooking for subtle sweetness and depth.</p>
+        <p>Rice and Grains: Place a cinnamon stick in the pot when cooking rice or quinoa for extra flavour.</p>
+
+        <!-- Baking -->
+        <p class="common-subheading">Baking</p>
+        <p>Use cinnamon sticks to flavour fillings or syrups for pies and pastries.</p>
+
+        <!-- Sauces & Marinades -->
+        <p class="common-subheading">Sauces and Marinades</p>
+        <p>Include a cinnamon stick in sauces and marinades to add warmth and complexity.</p>
+
+      <!-- Infused Syrups -->
+      <p class="common-subheading">Infused Syrups</p>
+      <p>Simmer sugar, water, and a cinnamon stick to create a simple syrup for drinks and desserts.</p>
+
+      <!-- Stewed Fruits -->
+      <p class="common-subheading">Stewed Fruits</p>
+      <p>Add a cinnamon stick to fruit compotes or stews for enhanced sweetness.</p>
+
+        <!-- Smoothies -->
+        <p class="common-subheading">Smoothies</p>
+        <p>Blend a small piece of a cinnamon stick into smoothies for an extra flavour boost.</p>
+      </div>
+
+      </div>
+      
+    </div>
+  
+  </div>
+</section>
+
+<section id="about" class="mt-5">
+  <div class="container-lg">
+    <div class="row">
+       <div class="col-lg-5">
+        <div class="row">
+          <div class="col-md-12">
+            <figure class="image-holder mb-5 " data-aos="fade-left">
+              <img src="images/price.webp" alt="Cinnamon Heritage" class="jarallax-img full-img">
+            </figure>
+          </div>
+         
+        </div>
+      </div>
+       <div class="col-lg-7">
+        <div class="detail-entry " data-aos="fade-right">
+         <!-- <h4 class="fs-6">A Spice That Once Held Greater Value Than Silver or Gold</h4>  -->
+          <h3 class="mt-0 mb-4 fs-2">The price tag behind value in Ceylon cinnamon</h3>
+           <p >As William Dalrymple notes in Anarchy, Sri Lanka’s cinnamon legacy began under colonial
+            trade powers like the British East India Company and Dutch VOC, a chapter that evolved
+            post-1948 independence as global markets shifted toward affordable cassia, often blending it
+            with true Ceylon without distinction and challenging its premium heritage. </p>
+
+            <p >
+        Science now highlights Ceylon cinnamon’s unique health benefits for cancer prevention, diabetes
+          management, heart health, and cognitive support, underscoring its value in taste, wellness,
+          and broader social impact. While price competition has undervalued the skilled artistry of
+          harvesting and quilling—honored since ancient times—and overlooked smallholder farmers,
+          Sri Lanka’s recent GI protection paves the way for  authentic storytelling, fair practices, and
+          sustainable prosperity that elevates the industry.</p>
+
+          <p > The Price Tag Behind Value in Ceylon Cinnamon reframes the premium cost as a transparent
+investment in rarity, craftsmanship, and unmatched quality from Sri Lanka’s roots. </p>
+      
+          
+
+        
+          </div>
+        </div>
+      </div>
+    </div>
+</section>
   <!-- Best Sell start -->
     <?php include 'blogbox.php'; ?>
     <!-- Best Sell end -->

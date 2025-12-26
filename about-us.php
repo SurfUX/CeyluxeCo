@@ -228,7 +228,7 @@
       <div class="row align-items-center">
         <div class="col-lg-5">
           <figure class="image-holder mb-5 jarallax">
-            <img src="images/single-image1.jpg" alt="ceramic" data-aos="fade-right" class="jarallax-img">
+            <img src="images/single-image1.webp" alt="ceramic" data-aos="fade-right" class="jarallax-img">
           </figure>
         </div>
         <div class="col-lg-7">
@@ -277,7 +277,7 @@
         </div>
         <div class="col-lg-5">
           <figure class="image-holder mb-5 jarallax" data-aos="fade-left">
-            <img src="images/post-item1.jpg" alt="ceramic" class="jarallax-img">
+            <img src="images/post-item1.webp" alt="ceramic" class="jarallax-img">
           </figure>
         </div>
         
@@ -292,7 +292,7 @@
       <div class="col-lg-3 col-md-6 text-center mb-4 mb-lg-0">
         <div class="icon-box" data-aos="fade-right">
           <div class="icon-box-content">
-            <h3 class="fs-3 feature-title mt-0 mb-3">Scientifically Proven</h3>
+            <h3 class="fs-3 feature-title mt-0 mb-3">Safety standards</h3>
             <p>
               Produced under ISO 22000, GMP, and HACCP standards to ensure safety, purity, and consistent quality.
             </p>
@@ -344,17 +344,17 @@
          <div class="row">
           <div class="col-md-12">
              <figure class="image-holder mb-5 jarallax"  data-aos="fade-right">
-               <img src="images/post-item2.jpg" alt="ceramic" class="jarallax-img">
+               <img src="images/post-item2.webp" alt="ceramic" class="jarallax-img">
             </figure>
           </div>
           <div class="col-md-6">
              <figure class="image-holder mb-5 " data-aos="fade-right">
-               <img src="images/post-item1.jpg" alt="ceramic" class="jarallax-img ceo-img">
+               <img src="images/post-item1.webp" alt="ceramic" class="jarallax-img ceo-img">
             </figure>
           </div>
           <div class="col-md-6">
              <figure class="image-holder mb-5 " data-aos="fade-right">
-               <img src="images/post-item3.jpg" alt="ceramic" class="jarallax-img ceo-img">
+               <img src="images/post-item3.webp" alt="ceramic" class="jarallax-img ceo-img">
             </figure>
           </div>
          </div>
@@ -382,10 +382,12 @@
             The Founders of Ceyluxe Co.</p>
             <div class="d-flex">
               <div class="">
+                 <img src="images/rajitha.webp" alt="ceramic" class="jarallax-img signature-img">
               <p>Rajitha Gajaweera </p>
               </div>
-              <div class="">
-              <p>Rajitha Gajaweera </p>
+              <div class="ml-40">
+                 <img src="images/s.webp" alt="ceramic" class="jarallax-img signature-img">
+              <p>Sahansi Manamperi  </p>
               </div>
             </div>
           </div>
@@ -394,7 +396,7 @@
     
     </div>
   </section>
-  <section id="our-team" class="py-lg-6">
+  <!-- <section id="our-team" class="py-lg-6">
     <div class="container-lg">
       <div class="row">
         <div class="display-header text-center mb-5">
@@ -403,7 +405,7 @@
         <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
           <div class="team-member text-center" data-aos="fade-up">
             <div class="image-holder position-relative">
-              <img src="images/user.png" alt="team" class="img-fluid" >
+              <img src="images/user.webp" alt="team" class="img-fluid" >
               <ul class="social-links list-unstyled position-absolute">
                 <li>
                   <a href="#" class="text-dark">
@@ -444,7 +446,7 @@
         <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
           <div class="team-member text-center" data-aos="fade-up">
             <div class="image-holder position-relative">
-              <img src="images/user.png" alt="team" class="img-fluid">
+              <img src="images/user.webp" alt="team" class="img-fluid">
               <ul class="social-links list-unstyled position-absolute">
                 <li>
                   <a href="#" class="text-dark">
@@ -485,7 +487,7 @@
         <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
           <div class="team-member text-center" data-aos="fade-up">
             <div class="image-holder position-relative">
-              <img src="images/user.png" alt="team" class="img-fluid">
+              <img src="images/user.webp" alt="team" class="img-fluid">
               <ul class="social-links list-unstyled position-absolute">
                 <li>
                   <a href="#" class="text-dark">
@@ -526,7 +528,7 @@
         <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
           <div class="team-member text-center" data-aos="fade-up">
             <div class="image-holder position-relative">
-              <img src="images/user.png" alt="team" class="img-fluid">
+              <img src="images/user.webp" alt="team" class="img-fluid">
               <ul class="social-links list-unstyled position-absolute">
                 <li>
                   <a href="#" class="text-dark">
@@ -566,7 +568,7 @@
         </div>
       </div>
     </div>
-  </section>
+  </section> -->
 
   <section id="call-to-action" class="py-lg-8 pt-0">
     <div class="container-lg">
@@ -601,7 +603,7 @@
         <div class="col-lg-2 col-md-6 mb-3">
           <div class="image-holder position-relative">
             <a href="https://www.instagram.com/templatesjungle/" target="_blank">
-              <img src="images/insta-item1.jpg" alt="instagram" class="img-fluid">
+              <img src="images/insta-item1.webp" alt="instagram" class="img-fluid">
               <div class="border insta-item position-absolute d-flex align-items-center justify-content-center">
                 <svg class="insta svg-white" width="25" height="25">
                   <use xlink:href="#insta"></use>
@@ -613,7 +615,7 @@
         <div class="col-lg-2 col-md-6 mb-3">
           <div class="image-holder position-relative">
             <a href="https://www.instagram.com/templatesjungle/" target="_blank">
-              <img src="images/insta-item2.jpg" alt="instagram" class="img-fluid">
+              <img src="images/insta-item2.webp" alt="instagram" class="img-fluid">
               <div class="border insta-item position-absolute d-flex align-items-center justify-content-center">
                 <svg class="insta svg-white" width="25" height="25">
                   <use xlink:href="#insta"></use>
@@ -625,7 +627,7 @@
         <div class="col-lg-2 col-md-6 mb-3">
           <div class="image-holder position-relative">
             <a href="https://www.instagram.com/templatesjungle/" target="_blank">
-              <img src="images/insta-item3.jpg" alt="instagram" class="img-fluid">
+              <img src="images/insta-item3.webp" alt="instagram" class="img-fluid">
               <div class="border insta-item position-absolute d-flex align-items-center justify-content-center">
                 <svg class="insta svg-white" width="25" height="25">
                   <use xlink:href="#insta"></use>
@@ -637,7 +639,7 @@
         <div class="col-lg-2 col-md-6 mb-3">
           <div class="image-holder position-relative">
             <a href="https://www.instagram.com/templatesjungle/" target="_blank">
-              <img src="images/insta-item4.jpg" alt="instagram" class="img-fluid">
+              <img src="images/insta-item4.webp" alt="instagram" class="img-fluid">
               <div class="border insta-item position-absolute d-flex align-items-center justify-content-center">
                 <svg class="insta svg-white" width="25" height="25">
                   <use xlink:href="#insta"></use>
@@ -649,7 +651,7 @@
         <div class="col-lg-2 col-md-6 mb-3">
           <div class="image-holder position-relative">
             <a href="https://www.instagram.com/templatesjungle/" target="_blank">
-              <img src="images/insta-item5.jpg" alt="instagram" class="img-fluid">
+              <img src="images/insta-item5.webp" alt="instagram" class="img-fluid">
               <div class="border insta-item position-absolute d-flex align-items-center justify-content-center">
                 <svg class="insta svg-white" width="25" height="25">
                   <use xlink:href="#insta"></use>
@@ -661,7 +663,7 @@
         <div class="col-lg-2 col-md-6 mb-3">
           <div class="image-holder position-relative">
             <a href="https://www.instagram.com/templatesjungle/" target="_blank">
-              <img src="images/insta-item6.jpg" alt="instagram" class="img-fluid">
+              <img src="images/insta-item6.webp" alt="instagram" class="img-fluid">
               <div class="border insta-item position-absolute d-flex align-items-center justify-content-center">
                 <svg class="insta svg-white" width="25" height="25">
                   <use xlink:href="#insta"></use>

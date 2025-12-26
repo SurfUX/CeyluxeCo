@@ -133,78 +133,6 @@
     </div>
   </div>
 
-  <div class="offcanvas offcanvas-end" data-bs-scroll="true" tabindex="-1" id="offcanvasLogin" aria-labelledby="My Login">
-    <div class="offcanvas-header">
-      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
-    </div>
-    <div class="offcanvas-body">
-      <div class="login-detail">
-        <div class="login-form p-0">
-          <div class="col-lg-12 mx-auto">
-            <form id="login-form">
-              <input type="text" name="username" placeholder="Username or Email Address *" class="mb-3 ps-3 text-input w-100">
-              <input type="password" name="password" placeholder="Password" class="ps-3 text-input w-100">
-              <div class="checkbox d-flex justify-content-between mt-4">
-                <p class="checkbox-form">
-                  <label class="">
-                    <input name="rememberme" type="checkbox" id="remember-me" value="forever"> Remember me </label>
-                </p>
-                <p class="lost-password">
-                  <a href="#">Forgot your password?</a>
-                </p>
-              </div>
-            </form>
-          </div>
-        </div>
-        <div class="modal-footer mt-5 d-flex justify-content-center">
-          <button type="button" class="btn btn-primary w-100 mb-2">Login</button>
-          <button type="button" class="btn btn-outline-primary w-100">Register</button>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <!-- <div class="offcanvas offcanvas-end" data-bs-scroll="true" tabindex="-1" id="offcanvasCart" aria-labelledby="My Cart">
-    <div class="offcanvas-header">
-      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
-    </div>
-    <div class="offcanvas-body">
-      <div class="order-md-last">
-        <h4 class="d-flex justify-content-between align-items-center mb-3">
-          <span class="text-primary">Your Cart</span>
-          <span class="badge bg-primary rounded-pill">3</span>
-        </h4>
-        <ul class="list-group mb-3">
-          <li class="list-group-item d-flex justify-content-between lh-sm">
-            <div>
-              <h6 class="my-0">Roselle ceramic</h6>
-              <small class="text-body-secondary">Brief description</small>
-            </div>
-            <span class="text-body-secondary">$12</span>
-          </li>
-          <li class="list-group-item d-flex justify-content-between lh-sm">
-            <div>
-              <h6 class="my-0">Apple Flower ceramic</h6>
-              <small class="text-body-secondary">Brief description</small>
-            </div>
-            <span class="text-body-secondary">$14</span>
-          </li>
-          <li class="list-group-item d-flex justify-content-between lh-sm">
-            <div>
-              <h6 class="my-0">Honey ceramic</h6>
-              <small class="text-body-secondary">Brief description</small>
-            </div>
-            <span class="text-body-secondary">$12</span>
-          </li>
-          <li class="list-group-item d-flex justify-content-between">
-            <span>Total (USD)</span>
-            <strong>$38</strong>
-          </li>
-        </ul>
-        <button class="w-100 btn btn-primary btn-lg" type="submit">Continue to Checkout</button>
-      </div>
-    </div>
-  </div> -->
 
   <!-- header start -->
     <?php include 'header.php'; ?>
@@ -287,7 +215,7 @@
                 <a href="#">+46 76-028 82 29</a>
               </div>
               <div class="email-address" data-aos="fade-right">
-                <p><a href="#">info@ceyluxe.com</a></p>
+                <p><a href="#">Info@ceyluxeco.com</a></p>
               </div>
             </div>
           </div>
@@ -302,7 +230,7 @@
                 <a href="#">>+46 76-028 82 29</a>
               </div>
               <div class="email-address">
-                <p><a href="#">exports@ceyluxe.co</a></p>
+                <p><a href="#">Info@ceyluxeco.com</a></p>
               </div>
             </div>
           </div>
