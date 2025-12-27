@@ -128,6 +128,58 @@
                   </div>
                 </div>
               </div>
+               <div class="swiper-slide image-zoom-effect">
+                <div class="product-item mx-auto">
+                  <div class="image-holder mb-2">
+                    <img src="images/product-item7.webp" alt="ceramic" class="img-fluid">
+                  </div>
+                  <div class="product-info text-center">
+                    <h3 class="  m-0">
+                      <a href="single-product.php" class="text-dark">Ceylon Cinomon Powder</a>
+                    </h3>
+                    <!-- <div class="product-price text-primary fw-medium">$14.00</div> -->
+                  </div>
+                </div>
+              </div>
+               <div class="swiper-slide image-zoom-effect">
+                <div class="product-item mx-auto">
+                  <div class="image-holder mb-2">
+                    <img src="images/product-item8.webp" alt="ceramic" class="img-fluid">
+                  </div>
+                  <div class="product-info text-center">
+                    <h3 class="  m-0">
+                      <a href="single-product.php" class="text-dark">Ceylon Cinomon Powder</a>
+                    </h3>
+                    <!-- <div class="product-price text-primary fw-medium">$14.00</div> -->
+                  </div>
+                </div>
+              </div>
+              <div class="swiper-slide image-zoom-effect">
+                <div class="product-item mx-auto">
+                  <div class="image-holder mb-2">
+                    <img src="images/product-item9.webp" alt="ceramic" class="img-fluid">
+                  </div>
+                  <div class="product-info text-center">
+                    <h3 class="  m-0">
+                      <a href="single-product.php" class="text-dark">Ceylon Cinomon Powder</a>
+                    </h3>
+                    <!-- <div class="product-price text-primary fw-medium">$14.00</div> -->
+                  </div>
+                </div>
+              </div>
+              <div class="swiper-slide image-zoom-effect">
+                <div class="product-item mx-auto">
+                  <div class="image-holder mb-2">
+                    <img src="images/product-item10.webp" alt="ceramic" class="img-fluid">
+                  </div>
+                  <div class="product-info text-center">
+                    <h3 class="  m-0">
+                      <a href="single-product.php" class="text-dark">Ceylon Cinomon Powder</a>
+                    </h3>
+                    <!-- <div class="product-price text-primary fw-medium">$14.00</div> -->
+                  </div>
+                </div>
+              </div>
              
               
               

@@ -240,7 +240,60 @@
                 </div>
               </div>
             </div>
-
+               <!-- Product 4 -->
+            <div class="col-lg-3 col-md-6 mb-5">
+              <div class="product-item mx-auto" data-aos="fade-up">
+                <div class="image-holder text-center mb-2">
+                  <img src="images/product-item7.webp" alt="cinnamon" class="img-fluid">
+                </div>
+                <div class="product-info text-center">
+                  <h3 class="m-0">
+                    <a href="single-product.php" class="text-dark">Organic Ceylon Cinnamon</a>
+                  </h3>
+                 <!-- <div class="product-price text-primary fw-medium">$14.00</div> -->
+                </div>
+              </div>
+            </div>
+                 <!-- Product 4 -->
+            <div class="col-lg-3 col-md-6 mb-5">
+              <div class="product-item mx-auto" data-aos="fade-up">
+                <div class="image-holder text-center mb-2">
+                  <img src="images/product-item8.webp" alt="cinnamon" class="img-fluid">
+                </div>
+                <div class="product-info text-center">
+                  <h3 class="m-0">
+                    <a href="single-product.php" class="text-dark">Organic Ceylon Cinnamon</a>
+                  </h3>
+                 <!-- <div class="product-price text-primary fw-medium">$14.00</div> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-6 mb-5">
+              <div class="product-item mx-auto" data-aos="fade-up">
+                <div class="image-holder text-center mb-2">
+                  <img src="images/product-item9.webp" alt="cinnamon" class="img-fluid">
+                </div>
+                <div class="product-info text-center">
+                  <h3 class="m-0">
+                    <a href="single-product.php" class="text-dark">Organic Ceylon Cinnamon</a>
+                  </h3>
+                 <!-- <div class="product-price text-primary fw-medium">$14.00</div> -->
+                </div>
+              </div>
+            </div>
+<div class="col-lg-3 col-md-6 mb-5">
+              <div class="product-item mx-auto" data-aos="fade-up">
+                <div class="image-holder text-center mb-2">
+                  <img src="images/product-item10.webp" alt="cinnamon" class="img-fluid">
+                </div>
+                <div class="product-info text-center">
+                  <h3 class="m-0">
+                    <a href="single-product.php" class="text-dark">Organic Ceylon Cinnamon</a>
+                  </h3>
+                 <!-- <div class="product-price text-primary fw-medium">$14.00</div> -->
+                </div>
+              </div>
+            </div>
         
 
           </div>

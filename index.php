@@ -339,7 +339,7 @@
    <!-- Product Slider start -->
     <?php include 'product-slider.php'; ?>
     <!-- Product Slider end -->
-  <section id="video-player" class="video overflow-hidden position-relative mmt-50"
+  <!-- <section id="video-player" class="video overflow-hidden position-relative mmt-50"
     style="background-image: url(images/video-item.jpg); background-repeat: no-repeat; background-position: center; background-attachment: fixed; width: 100%; height: 682px;">
     <div class="row">
       <div class="video-content">
@@ -356,7 +356,8 @@
         </div>
       </div>
     </div>
-  </section>
+  </section> -->
+  
   <!-- Best Sell start -->
     <?php include 'client-testomonial.php'; ?>
     <!-- Best Sell end -->
