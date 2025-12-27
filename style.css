@@ -835,7 +835,7 @@ a:hover {
 }
 .background-about {
   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url(images/hero-image2.webp);
+    url(images/hero-image2.jpg);
   height: 55vh;
   background-position: top;
   background-attachment: fixed;

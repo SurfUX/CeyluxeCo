@@ -1,5 +1,5 @@
 <html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths" style=""><head>
-  <title>Ceyluxe</title>
+  <title>Story</title>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -16,6 +16,8 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
   <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&amp;family=Quattrocento:wght@400;700&amp;display=swap" rel="stylesheet">
   <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <link href="images/favicon.png" rel="icon">
+  <link href="images/apple-touch-icon.png" rel="apple-touch-icon">
   <!-- script
     ================================================== -->
   <script src="js/modernizr.js"></script>
@@ -526,7 +528,7 @@
     <div class="row">
           <div class="col-md-12">
             <figure class="image-holder mb-5 py-lg-5 " data-aos="fade-left">
-              <img src="images/cinomon.webp" alt="Cinnamon Heritage" class="jarallax-img full-img">
+              <img src="images/cinomon.png" alt="Cinnamon Heritage" class="jarallax-img full-img">
             </figure>
           </div>
          
@@ -670,6 +672,52 @@ investment in rarity, craftsmanship, and unmatched quality from Sri Lanka’s ro
         </div>
       </div>
     </div>
+</section>
+<section id="about" class="">
+  <div class="container-lg">
+    <div class="row">
+      
+
+      <div class="col-lg-12">
+        <div data-aos="fade-right" class="detail-entry ">
+          <!-- <h3 class="mt-0 mb-4 fs-2">
+          
+          </h3> -->
+
+        <!-- Flavour Infusion for Beverages -->
+        <p class="common-subheading"> Decoding the Premium Price</p>
+        <p>Ceylon cinnamon’s higher price stems from its limited 0.5% global supply, grown
+            exclusively in Sri Lanka’s coastal highlands where trees take four years to mature before
+            hand-harvesting. Labor-intensive peeling by skilled artisans—producing just 3 pounds per
+            day per worker—accounts for 67% of production costs, far exceeding cheap cassia methods.
+        </p>
+        <p class="common-subheading"> What Justifies Every Penny</p>
+        <p>Ceylon excels in harvesting effort through manual inner bark peeling by 350,000 specialized
+            workers, unlike cassia’s machine-stripped outer bark; its low yield and rarity mean even top
+            Alba grade takes four times longer to produce than cassia’s abundant supply. Strict 10-scale
+            quality grading pushes premium quills to $27 per pound, contrasting cassia’s uniform lowgrade bulk; sustainability challenges like droughts and peeler shortages add to costs, unlike
+            cassia’s stable industrial output. Export dynamics deliver strong value at $10-15 per kg FOB
+            for farmers, outpacing cassia’s lower bulk pricing.
+        </p>
+         <p class="common-subheading"> Worth the Investment</p>
+        <p>This pricing ensures safer, finer-flavored, nutrient-rich cinnamon that lasts longer and
+            elevates health routines—delivering outsized returns on wellness and taste.
+
+        </p>
+        <p>At Ceyluxeco exports (Pvt) Ltd we carefully select partners throughout the supply chain to
+ensure authenticity, quality and fair practices- Thank you for being a conscious consumer
+and making this meaningful choice. 
+        </p>
+
+
+
+      </div>
+
+      </div>
+      
+    </div>
+  
+  </div>
 </section>
   <!-- Best Sell start -->
     <?php include 'blogbox.php'; ?>

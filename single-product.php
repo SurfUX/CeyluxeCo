@@ -19,6 +19,8 @@
     ================================================== -->
   <script src="js/modernizr.js"></script>
   <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <link href="images/favicon.png" rel="icon">
+  <link href="images/apple-touch-icon.png" rel="apple-touch-icon">
 </head>
 
 <body style="">

@@ -1,5 +1,5 @@
 <html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths" style=""><head>
-  <title>Ceyluxe</title>
+  <title>About Us</title>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -16,6 +16,8 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
   <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&amp;family=Quattrocento:wght@400;700&amp;display=swap" rel="stylesheet">
   <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <link href="images/favicon.png" rel="icon">
+  <link href="images/apple-touch-icon.png" rel="apple-touch-icon">
   <!-- script
     ================================================== -->
   <script src="js/modernizr.js"></script>
@@ -127,78 +129,7 @@
     </div>
   </div>
 
-  <div class="offcanvas offcanvas-end" data-bs-scroll="true" tabindex="-1" id="offcanvasLogin" aria-labelledby="My Login">
-    <div class="offcanvas-header">
-      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
-    </div>
-    <div class="offcanvas-body">
-      <div class="login-detail">
-        <div class="login-form p-0">
-          <div class="col-lg-12 mx-auto">
-            <form id="login-form">
-              <input type="text" name="username" placeholder="Username or Email Address *" class="mb-3 ps-3 text-input w-100">
-              <input type="password" name="password" placeholder="Password" class="ps-3 text-input w-100">
-              <div class="checkbox d-flex justify-content-between mt-4">
-                <p class="checkbox-form">
-                  <label class="">
-                    <input name="rememberme" type="checkbox" id="remember-me" value="forever"> Remember me </label>
-                </p>
-                <p class="lost-password">
-                  <a href="#">Forgot your password?</a>
-                </p>
-              </div>
-            </form>
-          </div>
-        </div>
-        <div class="modal-footer mt-5 d-flex justify-content-center">
-          <button type="button" class="btn btn-primary w-100 mb-2">Login</button>
-          <button type="button" class="btn btn-outline-primary w-100">Register</button>
-        </div>
-      </div>
-    </div>
-  </div>
 
-  <div class="offcanvas offcanvas-end" data-bs-scroll="true" tabindex="-1" id="offcanvasCart" aria-labelledby="My Cart">
-    <div class="offcanvas-header">
-      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
-    </div>
-    <div class="offcanvas-body">
-      <div class="order-md-last">
-        <h4 class="d-flex justify-content-between align-items-center mb-3">
-          <span class="text-primary">Your Cart</span>
-          <span class="badge bg-primary rounded-pill">3</span>
-        </h4>
-        <ul class="list-group mb-3">
-          <li class="list-group-item d-flex justify-content-between lh-sm">
-            <div>
-              <h6 class="my-0">Roselle ceramic</h6>
-              <small class="text-body-secondary">Brief description</small>
-            </div>
-            <span class="text-body-secondary">$12</span>
-          </li>
-          <li class="list-group-item d-flex justify-content-between lh-sm">
-            <div>
-              <h6 class="my-0">Apple Flower ceramic</h6>
-              <small class="text-body-secondary">Brief description</small>
-            </div>
-            <span class="text-body-secondary">$14</span>
-          </li>
-          <li class="list-group-item d-flex justify-content-between lh-sm">
-            <div>
-              <h6 class="my-0">Honey ceramic</h6>
-              <small class="text-body-secondary">Brief description</small>
-            </div>
-            <span class="text-body-secondary">$12</span>
-          </li>
-          <li class="list-group-item d-flex justify-content-between">
-            <span>Total (USD)</span>
-            <strong>$38</strong>
-          </li>
-        </ul>
-        <button class="w-100 btn btn-primary btn-lg" type="submit">Continue to Checkout</button>
-      </div>
-    </div>
-  </div>
 
     <!-- header start -->
     <?php include 'header.php'; ?>
@@ -233,7 +164,7 @@
         </div>
         <div class="col-lg-7">
           <div class="detail-entry px-4" data-aos="fade-left">
-            <h4 class="fs-6">About Us</h4>
+            <!-- <h4 class="fs-6">About Us</h4> -->
             <h3 class="mt-0 mb-4 fs-2  ">"Story of Ceyluxe Co. by Ceyluxeco Exports (Pvt) Ltd. "</h3>
             <p>Ceyluxe Co. is a premium Sri Lankan spice and herbal brand created to bring the true 
               treasures of Ceylon to the world. With authentic Ceylon cinnamon at its core, Ceyluxe Co. 
