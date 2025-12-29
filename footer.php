@@ -78,7 +78,7 @@
               <li class="fw-medium pb-2"><a href="https://www.instagram.com/ceyluxe_co?igsh=MWg4cjlkMHlycG5zNw%3D%3D">Instagram</a></li>
               <li class="fw-medium pb-2"><a href="https://www.linkedin.com/company/ceyluxeco-exports-pvt-ltd/">Linkedin</a></li>
               <!-- <li class="fw-medium pb-2"><a href="#">Twitter</a></li> -->
-              <li class="fw-medium pb-2"><a href="#">YouTube</a></li>
+              <!-- <li class="fw-medium pb-2"><a href="#">YouTube</a></li> -->
             </ul>
           </div>
         </div>

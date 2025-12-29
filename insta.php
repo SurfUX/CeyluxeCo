@@ -4,7 +4,7 @@
         <h2 class="display-6 text-center  " data-aos="fade-up">Shop Our Insta</h2>
         <div class="col-lg-2 col-md-6 mb-3">
           <div class="image-holder position-relative" data-aos="fade-up" >
-            <a href="https://www.instagram.com/templatesjungle/" target="_blank">
+            <a href="https://www.instagram.com/ceyluxe_co?igsh=MWg4cjlkMHlycG5zNw%3D%3D" target="_blank">
               <img src="images/insta-item1.webp" alt="instagram" class="img-fluid">
               <div class="border insta-item position-absolute d-flex align-items-center justify-content-center">
                 <svg class="insta svg-white" width="25" height="25">
@@ -16,7 +16,7 @@
         </div>
         <div class="col-lg-2 col-md-6 mb-3">
           <div class="image-holder position-relative" data-aos="fade-up">
-            <a href="https://www.instagram.com/templatesjungle/" target="_blank">
+            <a href="https://www.instagram.com/ceyluxe_co?igsh=MWg4cjlkMHlycG5zNw%3D%3D" target="_blank">
               <img src="images/insta-item2.webp" alt="instagram" class="img-fluid">
               <div class="border insta-item position-absolute d-flex align-items-center justify-content-center">
                 <svg class="insta svg-white" width="25" height="25">
@@ -28,7 +28,7 @@
         </div>
         <div class="col-lg-2 col-md-6 mb-3">
           <div class="image-holder position-relative" data-aos="fade-up">
-            <a href="https://www.instagram.com/templatesjungle/" target="_blank">
+            <a href="https://www.instagram.com/ceyluxe_co?igsh=MWg4cjlkMHlycG5zNw%3D%3D" target="_blank">
               <img src="images/insta-item3.webp" alt="instagram" class="img-fluid">
               <div class="border insta-item position-absolute d-flex align-items-center justify-content-center">
                 <svg class="insta svg-white" width="25" height="25">
@@ -40,7 +40,7 @@
         </div>
         <div class="col-lg-2 col-md-6 mb-3">
           <div class="image-holder position-relative" data-aos="fade-up">
-            <a href="https://www.instagram.com/templatesjungle/" target="_blank">
+            <a href="https://www.instagram.com/ceyluxe_co?igsh=MWg4cjlkMHlycG5zNw%3D%3D" target="_blank">
               <img src="images/insta-item4.webp" alt="instagram" class="img-fluid">
               <div class="border insta-item position-absolute d-flex align-items-center justify-content-center">
                 <svg class="insta svg-white" width="25" height="25">
@@ -52,7 +52,7 @@
         </div>
         <div class="col-lg-2 col-md-6 mb-3">
           <div class="image-holder position-relative" data-aos="fade-up">
-            <a href="https://www.instagram.com/templatesjungle/" target="_blank">
+            <a href="https://www.instagram.com/ceyluxe_co?igsh=MWg4cjlkMHlycG5zNw%3D%3D" target="_blank">
               <img src="images/insta-item5.webp" alt="instagram" class="img-fluid">
               <div class="border insta-item position-absolute d-flex align-items-center justify-content-center">
                 <svg class="insta svg-white" width="25" height="25">
@@ -64,7 +64,7 @@
         </div>
         <div class="col-lg-2 col-md-6 mb-3">
           <div class="image-holder position-relative" data-aos="fade-up">
-            <a href="https://www.instagram.com/templatesjungle/" target="_blank">
+            <a href="https://www.instagram.com/ceyluxe_co?igsh=MWg4cjlkMHlycG5zNw%3D%3D" target="_blank">
               <img src="images/insta-item6.webp" alt="instagram" class="img-fluid">
               <div class="border insta-item position-absolute d-flex align-items-center justify-content-center">
                 <svg class="insta svg-white" width="25" height="25">

@@ -162,14 +162,14 @@
     <div class="row">
       <div class="col-lg-6 col-md-6">
         <div class="product-preview mb-3" data-aos="fade-left">
-          <img src="images/product-item3.webp" alt="single-product" class="img-fluid">
+          <img src="images/product-item2.webp" alt="single-product" class="img-fluid">
         </div>
       </div>
 
       <div class="col-lg-6 col-md-6">
         <div class="product-info" data-aos="fade-right">
           <div class="element-header">
-            <h3 itemprop="name" class="display-6 mb-0">Premium Ceylon Cinnamon Quills</h3>
+            <h3 itemprop="name" class="display-6 mb-0">Ceylon Cinnamon Quills- 50g</h3>
             <div class="rating-container d-flex align-items-center">
               <div class="rating">
                 <svg class="star star-fill" width="15" height="15"><use xlink:href="#star-fill"></use></svg>
@@ -182,7 +182,7 @@
           </div>
 
           <div class="product-price pt-3 pb-3">
-            <strong class="text-primary display-6">$20.00</strong>
+            <strong class="text-primary display-6">$10.00</strong>
           </div>
 
           <p>
@@ -366,7 +366,7 @@
     <?php include 'best-sell.php'; ?>
     <!-- Best Sell end -->
 
-<section id="class" class="video overflow-hidden position-relative" style="background-image: url(images/blog-item.webp); background-repeat: no-repeat; background-position: center; background-attachment: fixed; width: 100%; height: 682px;">
+<section id="class" class="video overflow-hidden position-relative" style="background-image: url(images/blog-item.jpg); background-repeat: no-repeat; background-position: center; background-attachment: fixed; width: 100%; height: 682px;">
   <div class="row">
     <div class="post-content position-absolute top-50 start-50 translate-middle d-flex justify-content-center align-items-center">
       <div class="display-header text-center text-light">

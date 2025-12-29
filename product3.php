@@ -1,5 +1,5 @@
 <html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths" style=""><head>
-  <head><title>Shop</title>
+  <title>Ceyluxe</title>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,7 +7,7 @@
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="author" content="TemplatesJungle">
   <meta name="keywords" content="ecommerce,ceramic,shop">
-  <meta name="description" content="Bootstrap 5 Ceramic Shop php CSS Template">
+  <meta name="description" content="Bootstrap 5 Ceramic Shop HTML CSS Template">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css">
   <link rel="stylesheet" type="text/css" href="css/vendor.css">
@@ -15,14 +15,12 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
   <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&amp;family=Quattrocento:wght@400;700&amp;display=swap" rel="stylesheet">
-    <!-- Favicons -->
-  <link href="images/favicon.png" rel="icon">
-  <link href="images/apple-touch-icon.png" rel="apple-touch-icon">
   <!-- script
     ================================================== -->
   <script src="js/modernizr.js"></script>
-    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
-    
+  <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <link href="images/favicon.png" rel="icon">
+  <link href="images/apple-touch-icon.png" rel="apple-touch-icon">
 </head>
 
 <body style="">
@@ -109,6 +107,12 @@
     <symbol xmlns="http://www.w3.org/2000/svg" id="linkedin" viewBox="0 0 512 512" width="20" height="20">
       <path fill="currentColor" d="M444.17 32H70.28C49.85 32 32 46.7 32 66.89v374.72C32 461.91 49.85 480 70.28 480h373.78c20.54 0 35.94-18.21 35.94-38.39V66.89C480.12 46.7 464.6 32 444.17 32Zm-273.3 373.43h-64.18V205.88h64.18ZM141 175.54h-.46c-20.54 0-33.84-15.29-33.84-34.43c0-19.49 13.65-34.42 34.65-34.42s33.85 14.82 34.31 34.42c-.01 19.14-13.31 34.43-34.66 34.43Zm264.43 229.89h-64.18V296.32c0-26.14-9.34-44-32.56-44c-17.74 0-28.24 12-32.91 23.69c-1.75 4.2-2.22 9.92-2.22 15.76v113.66h-64.18V205.88h64.18v27.77c9.34-13.3 23.93-32.44 57.88-32.44c42.13 0 74 27.77 74 87.64Z"></path>
     </symbol>
+    <symbol xmlns="http://www.w3.org/2000/svg" id="plus" viewBox="0 0 24 24">
+      <path fill="currentColor" d="M19 12.998h-6v6h-2v-6H5v-2h6v-6h2v6h6z"></path>
+    </symbol>
+    <symbol xmlns="http://www.w3.org/2000/svg" id="minus" viewBox="0 0 24 24">
+      <path fill="currentColor" d="M19 12.998H5v-2h14z"></path>
+    </symbol>
   </svg>
 
   <div class="preloader" style="display: none;">
@@ -131,8 +135,6 @@
     </div>
   </div>
 
-
-
    <!-- header start -->
     <?php include 'header.php'; ?>
     <!-- header end -->
@@ -142,12 +144,12 @@
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <h1 class="page-title text-light  " data-aos="fade-up">Shop </h1>
+            <h1 class="page-title text-light  " data-aos="fade-up">Product </h1>
             <div class="breadcrumbs text-light" data-aos="fade-up">
               <span class="item">
                 <a href="index.php" class="text-light">Home /</a>
               </span>
-              <span class="item">Shop</span>
+              <span class="item">Product</span>
             </div>
           </div>
         </div>
@@ -155,185 +157,235 @@
     </div>
   </section>
 
-<section class="product-collection py-lg-7">
+<section id="selling-product" class="single-product py-lg-7">
   <div class="container-lg">
     <div class="row">
-      <main class="col-md-12">
-
-        <div class="filter-shop d-flex justify-content-between mb-5">
-          <!-- <div class="showing-product">
-            <p>Showing 1–12 of 55 results</p>
-          </div>
-          <div class="sort-by">
-            <select id="input-sort" class="form-control">
-              <option value="">Default Sorting</option>
-              <option value="">Name (A - Z)</option>
-              <option value="">Name (Z - A)</option>
-              <option value="">Price (Low-High)</option>
-              <option value="">Price (High-Low)</option>
-              <option value="">Rating (Highest)</option>
-              <option value="">Rating (Lowest)</option>
-            </select>
-          </div> -->
+      <div class="col-lg-6 col-md-6">
+        <div class="product-preview mb-3" data-aos="fade-left">
+          <img src="images/product-item3.webp" alt="single-product" class="img-fluid">
         </div>
+      </div>
 
-        <div class="product-content">
-          <div class="row">
-
-            <!-- Product 1 -->
-            <div class="col-lg-3 col-md-6 mb-5">
-              <div class="product-item mx-auto" data-aos="fade-up">
-                <div class="image-holder text-center mb-2">
-                  <img src="images/product-item2.webp" alt="cinnamon" class="img-fluid">
-                </div>
-                <div class="product-info text-center">
-                  <h3 class="m-0">
-                    <a href="product2.php" class="text-dark">Ceylon Cinnamon Quills- 50g</a>
-                  </h3>
-                  <div class="product-price text-primary fw-medium">$10.00</div> 
-                </div>
+      <div class="col-lg-6 col-md-6">
+        <div class="product-info" data-aos="fade-right">
+          <div class="element-header">
+            <h3 itemprop="name" class="display-6 mb-0">Ceylon Cinnamon Quills-50g</h3>
+            <div class="rating-container d-flex align-items-center">
+              <div class="rating">
+                <svg class="star star-fill" width="15" height="15"><use xlink:href="#star-fill"></use></svg>
+                <svg class="star star-fill" width="15" height="15"><use xlink:href="#star-fill"></use></svg>
+                <svg class="star star-fill" width="15" height="15"><use xlink:href="#star-fill"></use></svg>
+                <svg class="star star-fill" width="15" height="15"><use xlink:href="#star-fill"></use></svg>
+                <svg class="star star-fill" width="15" height="15"><use xlink:href="#star-fill"></use></svg>
               </div>
             </div>
-
-            <!-- Product 2 -->
-            <div class="col-lg-3 col-md-6 mb-5">
-              <div class="product-item mx-auto" data-aos="fade-up">
-                <div class="image-holder text-center mb-2">
-                  <img src="images/product-item3.webp" alt="cinnamon" class="img-fluid">
-                </div>
-                <div class="product-info text-center">
-                  <h3 class="m-0">
-                    <a href="product3.php" class="text-dark">Ceylon Cinnamon Quills-50g</a>
-                  </h3>
-                  <div class="product-price text-primary fw-medium">$7.00</div> 
-                </div>
-              </div>
-            </div>
-          
-
-            <!-- Product 3 -->
-             <div class="col-lg-3 col-md-6 mb-5">
-              <div class="product-item mx-auto" data-aos="fade-up">
-                <div class="image-holder text-center mb-2">
-                  <img src="images/product-item5.webp" alt="cinnamon" class="img-fluid">
-                </div>
-                <div class="product-info text-center">
-                  <h3 class="m-0">
-                    <a href="product5.php" class="text-dark">Ceylon Cinnamon Powder-100g</a>
-                  </h3>
-                 <div class="product-price text-primary fw-medium">$10.00</div> 
-                </div>
-              </div>
-            </div>
-
-            <!-- Product 4 -->
-            <div class="col-lg-3 col-md-6 mb-5">
-              <div class="product-item mx-auto" data-aos="fade-up">
-                <div class="image-holder text-center mb-2">
-                  <img src="images/product-item6.webp" alt="cinnamon" class="img-fluid">
-                </div>
-                <div class="product-info text-center">
-                  <h3 class="m-0">
-                    <a href="product6.php" class="text-dark">Ceylon Cinnamon Powder-100g</a>
-                  </h3>
-                <div class="product-price text-primary fw-medium">$7.00</div> 
-                </div>
-              </div>
-            </div>
-               <!-- Product 4 -->
-            <div class="col-lg-3 col-md-6 mb-5">
-              <div class="product-item mx-auto" data-aos="fade-up">
-                <div class="image-holder text-center mb-2">
-                  <img src="images/product-item7.webp" alt="cinnamon" class="img-fluid">
-                </div>
-                <div class="product-info text-center">
-                  <h3 class="m-0">
-                    <a href="" class="text-dark">Coming Soon</a>
-                  </h3>
-                 <!-- <div class="product-price text-primary fw-medium">$14.00</div> -->
-                </div>
-              </div>
-            </div>
-                 <!-- Product 4 -->
-            <div class="col-lg-3 col-md-6 mb-5">
-              <div class="product-item mx-auto" data-aos="fade-up">
-                <div class="image-holder text-center mb-2">
-                  <img src="images/product-item8.webp" alt="cinnamon" class="img-fluid">
-                </div>
-                <div class="product-info text-center">
-                  <h3 class="m-0">
-                    <a href="" class="text-dark">Coming Soon</a>
-                  </h3>
-                 <!-- <div class="product-price text-primary fw-medium">$14.00</div> -->
-                </div>
-              </div>
-            </div>
-            <div class="col-lg-3 col-md-6 mb-5">
-              <div class="product-item mx-auto" data-aos="fade-up">
-                <div class="image-holder text-center mb-2">
-                  <img src="images/product-item9.webp" alt="cinnamon" class="img-fluid">
-                </div>
-                <div class="product-info text-center">
-                  <h3 class="m-0">
-                    <a href="" class="text-dark">Coming Soon</a>
-                  </h3>
-                 <!-- <div class="product-price text-primary fw-medium">$14.00</div> -->
-                </div>
-              </div>
-            </div>
-<div class="col-lg-3 col-md-6 mb-5">
-              <div class="product-item mx-auto" data-aos="fade-up">
-                <div class="image-holder text-center mb-2">
-                  <img src="images/product-item10.webp" alt="cinnamon" class="img-fluid">
-                </div>
-                <div class="product-info text-center">
-                  <h3 class="m-0">
-                    <a href="" class="text-dark">Coming Soon</a>
-                  </h3>
-                 <!-- <div class="product-price text-primary fw-medium">$14.00</div> -->
-                </div>
-              </div>
-            </div>
-        
-
           </div>
+
+          <div class="product-price pt-3 pb-3">
+            <strong class="text-primary display-6">$7.00</strong>
+          </div>
+
+          <p>
+            Our Premium Ceylon Cinnamon Quills are hand-harvested and carefully rolled using traditional methods passed down through generations. Known for their delicate aroma, mild sweetness, and refined flavor, these quills represent the true essence of Sri Lankan cinnamon.
+          </p>
+
+          <div class="product-action">
+            <div class="product-quantity">
+              <div class="input-group product-qty mb-3">
+                <span class="input-group-btn">
+                  <button type="button" class="quantity-left-minus btn btn-number text-center border" data-type="minus">
+                    <svg class="minus" width="20" height="20"><use xlink:href="#minus"></use></svg>
+                  </button>
+                </span>
+                <input type="text" id="quantity" name="quantity" class="form-control input-number text-center border" value="1" min="1" max="100">
+                <span class="input-group-btn">
+                  <button type="button" class="quantity-right-plus btn btn-number text-center border" data-type="plus">
+                    <svg class="plus" width="20" height="20"><use xlink:href="#plus"></use></svg>
+                  </button>
+                </span>
+              </div>
+
+              <button type="submit" name="add" id="add-to-cart" class="btn btn-lg btn-dark mb-3">
+               <a
+  class="btn btn-whatsapp"
+  target="_blank"
+  href="https://wa.me/46760288229?text=Hello%20👋%0A%0AI%20would%20like%20to%20order:%0A%0A🛒%20Product:%20Premium%20Ceylon%20Cinnamon%20Quills%0A💰%20Price:%20$20.00%0A📦%20Quantity:%201%0A🔖%20SKU:%20CQ-001%0A%0APlease%20let%20me%20know%20the%20availability."
+>
+  <i class="icon fab fa-whatsapp"></i> Order via WhatsApp
+</a>
+              </button>
+            </div>
+          </div>
+
+          <div class="meta-product py-2">
+            <div class="meta-item d-flex align-items-baseline">
+              <h4 class="item-title fs-5 pe-2">SKU:</h4>
+              <ul class="select-list list-unstyled d-flex">
+                <li class="select-item">CQ-001</li>
+              </ul>
+            </div>
+
+            <div class="meta-item d-flex align-items-baseline">
+              <h4 class="item-title fs-5 pe-2">Category:</h4>
+              <ul class="select-list list-unstyled d-flex">
+                <li class="select-item"><a href="#">Cinnamon</a>,</li>
+                <li class="select-item"><a href="#">Spices</a>,</li>
+                <li class="select-item"><a href="#">Single Origin</a></li>
+              </ul>
+            </div>
+          </div>
+
         </div>
-
-        <!-- <nav class="navigation paging-navigation text-center padding-medium" role="navigation">
-          <div class="pagination loop-pagination d-flex justify-content-center align-items-center">
-            <span aria-current="page" class="page-numbers current pe-3">1</span>
-            <a class="page-numbers pe-3" href="#">2</a>
-            <a class="page-numbers pe-3" href="#">3</a>
-            <a class="page-numbers pe-3" href="#">4</a>
-            <a class="page-numbers" href="#">5</a>
-          </div>
-        </nav> -->
-
-      </main>
-    </div>
-  </div>
-</section>
-
-
-<section id="class" class="video overflow-hidden position-relative" style="background-image: url(images/blog-item.jpg); background-repeat: no-repeat; background-position: center; background-attachment: fixed; width: 100%; height: 682px;">
-  <div class="row">
-    <div class="post-content position-absolute top-50 start-50 translate-middle d-flex justify-content-center align-items-center">
-      <div class="display-header text-center text-light">
-        <h2 class="display-6 m-0 text-light mb-3" data-aos="fade-up" >Discover the Essence of True Ceylon Cinnamon</h2>
-        <p data-aos="fade-up">Explore our heritage, craftsmanship, and the journey behind Sri Lanka’s finest cinnamon.</p>
-        <a href="blog.php" class="btn btn-lg btn-light mt-3" data-aos="fade-up">Read Our Story</a>
       </div>
     </div>
   </div>
 </section>
 
-   <!-- Best Sell start -->
+
+  <section class="product-info-tabs " data-aos="fade-up">
+    <div class="container-lg">
+      <div class="row">
+        <div class="tabs-listing">
+          <nav>
+            <div class="nav nav-tabs d-flex flex-wrap justify-content-center" id="nav-tab" role="tablist">
+              <button class="nav-link active text-uppercase fw-medium" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home" type="button" role="tab" aria-controls="nav-home" aria-selected="true">Description</button>
+              <button class="nav-link text-uppercase fw-medium" id="nav-information-tab" data-bs-toggle="tab" data-bs-target="#nav-information" type="button" role="tab" aria-controls="nav-information" aria-selected="false" tabindex="-1">Additional information</button>
+              <!-- <button class="nav-link text-uppercase fw-medium" id="nav-review-tab" data-bs-toggle="tab" data-bs-target="#nav-review" type="button" role="tab" aria-controls="nav-review" aria-selected="false" tabindex="-1">Reviews</button> -->
+            </div>
+          </nav>
+          <div class="tab-content" id="nav-tabContent">
+            <div class="tab-pane fade show active border-top border-bottom py-4" id="nav-home">
+  <p>
+    Ceyluxe Premium Ceylon Cinnamon Quills are sourced exclusively from Sri Lanka and crafted to preserve their natural oils, aroma, and flavor. Each quill is hand-peeled and sun-dried to maintain purity and quality.
+  </p>
+  <ul class="list-unstyled ps-3" style="list-style-type:disc;">
+    <li>100% authentic Ceylon cinnamon</li>
+    <li>Hand-peeled and traditionally rolled</li>
+    <li>Mild, sweet flavor with delicate aroma</li>
+  </ul>
+  <p>
+    Ideal for culinary use, beverages, desserts, and wellness applications, these quills deliver a refined cinnamon experience trusted worldwide.
+  </p>
+</div>
+
+            <div class="tab-pane fade border-top border-bottom py-4" id="nav-information" role="tabpanel" aria-labelledby="nav-information-tab">
+                <p>
+    Origin: Sri Lanka<br>
+    Processing: Hand-peeled & sun-dried<br>
+    Certifications: ISO 22000, GMP, HACCP<br>
+    Packaging: Food-grade, export-quality packaging
+  </p>
+            </div>
+            <div class="tab-pane fade border-top border-bottom py-4" id="nav-review" role="tabpanel" aria-labelledby="nav-review-tab">
+              <div class="review-box d-flex flex-wrap">
+                <div class="col-lg-6 d-flex flex-wrap">
+                  <div class="col-md-2">
+                    <div class="image-holder mb-3">
+                      <img src="images/review-item1.webp" alt="review" class="img-fluid">
+                    </div>
+                  </div>
+                  <div class="col-md-9">
+                    <div class="review-content">
+                      <div class="rating-container d-flex align-items-center">
+                        <div class="rating">
+                          <svg class="star star-fill" width="15" height="15">
+                            <use xlink:href="#star-fill"></use>
+                          </svg>
+                          <svg class="star star-fill" width="15" height="15">
+                            <use xlink:href="#star-fill"></use>
+                          </svg>
+                          <svg class="star star-fill" width="15" height="15">
+                            <use xlink:href="#star-fill"></use>
+                          </svg>
+                          <svg class="star star-fill" width="15" height="15">
+                            <use xlink:href="#star-fill"></use>
+                          </svg>
+                          <svg class="star star-fill" width="15" height="15">
+                            <use xlink:href="#star-fill"></use>
+                          </svg>
+                        </div>
+                      </div>
+                      <div class="review-header">
+                        <span class="author-name">
+                          <strong>Alice Harris</strong>
+                        </span>
+                        <span class="review-date">– 03/07/2023</span>
+                      </div>
+                      <p>Vitae tortor condimentum lacinia quis vel eros donec ac. Nam at lectus urna duis convallis
+                        convallis</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-lg-6 d-flex flex-wrap">
+                  <div class="col-md-2">
+                    <div class="image-holder mb-3">
+                      <img src="images/review-item2.webp" alt="review" class="img-fluid">
+                    </div>
+                  </div>
+                  <div class="col-md-9">
+                    <div class="review-content">
+                      <div class="rating-container d-flex align-items-center">
+                        <div class="rating">
+                          <svg class="star star-fill" width="15" height="15">
+                            <use xlink:href="#star-fill"></use>
+                          </svg>
+                          <svg class="star star-fill" width="15" height="15">
+                            <use xlink:href="#star-fill"></use>
+                          </svg>
+                          <svg class="star star-fill" width="15" height="15">
+                            <use xlink:href="#star-fill"></use>
+                          </svg>
+                          <svg class="star star-fill" width="15" height="15">
+                            <use xlink:href="#star-fill"></use>
+                          </svg>
+                          <svg class="star star-fill" width="15" height="15">
+                            <use xlink:href="#star-fill"></use>
+                          </svg>
+                        </div>
+                      </div>
+                      <div class="review-header">
+                        <span class="author-name">
+                          <strong>William Anderson</strong>
+                        </span>
+                        <span class="review-date">– 03/06/2022</span>
+                      </div>
+                      <p>Vitae tortor condimentum lacinia quis vel eros donec ac. Nam at lectus urna duis convallis
+                        convallis</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Best Sell start -->
+    <?php include 'best-sell.php'; ?>
+    <!-- Best Sell end -->
+
+<section id="class" class="video overflow-hidden position-relative" style="background-image: url(images/blog-item.jpg); background-repeat: no-repeat; background-position: center; background-attachment: fixed; width: 100%; height: 682px;">
+  <div class="row">
+    <div class="post-content position-absolute top-50 start-50 translate-middle d-flex justify-content-center align-items-center">
+      <div class="display-header text-center text-light">
+        <h2 class="display-6 m-0 text-light mb-3">Pure Ceylon Cinnamon, Crafted with Care</h2>
+        <p>Experience the natural aroma, refined flavor, and authenticity of Sri Lanka’s finest cinnamon.</p>
+        <a href="blog.html" class="btn btn-lg btn-light mt-3">Explore Our Journal</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+    <!-- Best Sell start -->
     <?php include 'insta.php'; ?>
     <!-- Best Sell end -->
 
      <!-- Footer start -->
     <?php include 'footer.php'; ?>
     <!-- Footer end -->
+
   <script src="js/jquery.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
@@ -347,5 +399,4 @@
   });
 </script>
 
-
-<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button type="button" id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none; max-width: none;"></div></div></body></php>
+<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button type="button" id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none; max-width: none;"></div></div></body></html>

@@ -279,7 +279,7 @@
   <section id="icon-box-wrap" class="py-lg-5 mmt-50">
     <div class="container-lg">
       <div class="row">
-        <div class="col-lg-3 col-md-6 text-center mb-4 mb-lg-0">
+        <div class="col-lg-4 col-md-6 text-center mb-4 mb-lg-0">
           <div class="icon-box" data-aos="fade-right">
             <div class="icon-box-content">
               <h3 class="fs-3 feature-title mt-0 mb-3">Single Origin</h3>
@@ -287,7 +287,7 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-3 col-md-6 text-center mb-4 mb-lg-0">
+        <div class="col-lg-4 col-md-6 text-center mb-4 mb-lg-0">
           <div class="icon-box" data-aos="fade-right">
             <div class="icon-box-content">
               <h3 class="fs-3 feature-title mt-0 mb-3">Ethically Crafted</h3>
@@ -295,7 +295,7 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-3 col-md-6 text-center mb-4 mb-lg-0">
+        <div class="col-lg-4 col-md-6 text-center mb-4 mb-lg-0">
           <div class="icon-box">
             <div class="icon-box-content" data-aos="fade-left">
               <h3 class="fs-3 feature-title mt-0 mb-3">Scientifically Proven</h3>
@@ -303,14 +303,7 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-3 col-md-6 text-center mb-4 mb-lg-0">
-          <div class="icon-box" data-aos="fade-left">
-            <div class="icon-box-content">
-              <h3 class="fs-3 feature-title mt-0 mb-3">Our Classes</h3>
-              <p>Suspendisse tempus rhoncus enim pellentesque est vehicula vitae eget.</p>
-            </div>
-          </div>
-        </div>
+       
       </div>
     </div>
   </section>

@@ -20,7 +20,7 @@
               </svg>
             </div>
           </div>
-          <div class="swiper product-swiper">
+           <div class="swiper product-swiper">
             <div class="swiper-wrapper">
               <div class="swiper-slide image-zoom-effect">
                 <div class="product-item mx-auto">
@@ -29,9 +29,9 @@
                   </div>
                   <div class="product-info text-center">
                     <h3 class="  m-0">
-                      <a href="single-product.php" class="text-dark">Ceylon Cinomon Powder</a>
+                      <a href="product6.php" class="text-dark">Ceylon Cinnamon Powder-100g</a>
                     </h3>
-                    <!-- <div class="product-price text-primary fw-medium">$14.00</div> -->
+                     <div class="product-price text-primary fw-medium">$7.00</div> 
                   </div>
                 </div>
               </div>
@@ -43,9 +43,9 @@
                   </div>
                   <div class="product-info text-center">
                     <h3 class="  m-0">
-                      <a href="single-product.php" class="text-dark">Ceylon Cinomon Quills</a>
+                      <a href="product2.php" class="text-dark">Ceylon Cinnamon Quills- 50g</a>
                     </h3>
-                    <!-- <div class="product-price text-primary fw-medium">$14.00</div> -->
+                   <div class="product-price text-primary fw-medium">$10.00</div> 
                   </div>
                 </div>
               </div>
@@ -56,9 +56,9 @@
                   </div>
                   <div class="product-info text-center">
                     <h3 class="  m-0">
-                      <a href="single-product.php" class="text-dark">Ceylon Cinomon Quills</a>
+                      <a href="product3.php" class="text-dark">Ceylon Cinnamon Quills-50g</a>
                     </h3>
-                    <!-- <div class="product-price text-primary fw-medium">$14.00</div> -->
+                  <div class="product-price text-primary fw-medium">$7.00</div>
                   </div>
                 </div>
               </div>
@@ -69,9 +69,9 @@
                   </div>
                   <div class="product-info text-center">
                     <h3 class="  m-0">
-                      <a href="single-product.php" class="text-dark">Ceylon Cinomon Powder</a>
+                      <a href="product5.php" class="text-dark">Ceylon Cinnamon Powder-100g</a>
                     </h3>
-                    <!-- <div class="product-price text-primary fw-medium">$14.00</div> -->
+                    <div class="product-price text-primary fw-medium">$10.00</div> 
                   </div>
                 </div>
               </div>
@@ -82,9 +82,9 @@
                   </div>
                   <div class="product-info text-center">
                     <h3 class="  m-0">
-                      <a href="single-product.php" class="text-dark">Ceylon Cinomon Powder</a>
+                      <a href="product6.php" class="text-dark">Ceylon Cinnamon Powder-100g</a>
                     </h3>
-                    <!-- <div class="product-price text-primary fw-medium">$14.00</div> -->
+                   <div class="product-price text-primary fw-medium">$7.00</div> 
                   </div>
                 </div>
               </div>
@@ -96,9 +96,9 @@
                   </div>
                   <div class="product-info text-center">
                     <h3 class="  m-0">
-                      <a href="single-product.php" class="text-dark">Ceylon Cinomon Quills</a>
+                      <a href="product2.php" class="text-dark">Ceylon Cinnamon Quills- 50g</a>
                     </h3>
-                    <!-- <div class="product-price text-primary fw-medium">$14.00</div> -->
+                   <div class="product-price text-primary fw-medium">$10.00</div>
                   </div>
                 </div>
               </div>
@@ -109,9 +109,9 @@
                   </div>
                   <div class="product-info text-center">
                     <h3 class="  m-0">
-                      <a href="single-product.php" class="text-dark">Ceylon Cinomon Quills</a>
+                      <a href="product3.php" class="text-dark">Ceylon Cinnamon Quills-50g</a>
                     </h3>
-                    <!-- <div class="product-price text-primary fw-medium">$14.00</div> -->
+                  <div class="product-price text-primary fw-medium">$7.00</div>
                   </div>
                 </div>
               </div>
@@ -122,61 +122,61 @@
                   </div>
                   <div class="product-info text-center">
                     <h3 class="  m-0">
-                      <a href="single-product.php" class="text-dark">Ceylon Cinomon Powder</a>
+                      <a href="product5.php" class="text-dark">Ceylon Cinnamon Powder-100g</a>
                     </h3>
-                    <!-- <div class="product-price text-primary fw-medium">$14.00</div> -->
+                    <div class="product-price text-primary fw-medium">$10.00</div> 
                   </div>
                 </div>
               </div>
-               <div class="swiper-slide image-zoom-effect">
+                  <div class="swiper-slide image-zoom-effect">
                 <div class="product-item mx-auto">
                   <div class="image-holder mb-2">
                     <img src="images/product-item7.webp" alt="ceramic" class="img-fluid">
                   </div>
                   <div class="product-info text-center">
                     <h3 class="  m-0">
-                      <a href="single-product.php" class="text-dark">Ceylon Cinomon Powder</a>
+                      <a href="" class="text-dark">Coming Soon</a>
                     </h3>
-                    <!-- <div class="product-price text-primary fw-medium">$14.00</div> -->
+                   <!-- <div class="product-price text-primary fw-medium">$14.00</div> -->
                   </div>
                 </div>
               </div>
-               <div class="swiper-slide image-zoom-effect">
+                  <div class="swiper-slide image-zoom-effect">
                 <div class="product-item mx-auto">
                   <div class="image-holder mb-2">
                     <img src="images/product-item8.webp" alt="ceramic" class="img-fluid">
                   </div>
                   <div class="product-info text-center">
                     <h3 class="  m-0">
-                      <a href="single-product.php" class="text-dark">Ceylon Cinomon Powder</a>
+                      <a href="" class="text-dark">Coming Soon</a>
                     </h3>
-                    <!-- <div class="product-price text-primary fw-medium">$14.00</div> -->
+                   <!-- <div class="product-price text-primary fw-medium">$14.00</div> -->
                   </div>
                 </div>
               </div>
-              <div class="swiper-slide image-zoom-effect">
+                  <div class="swiper-slide image-zoom-effect">
                 <div class="product-item mx-auto">
                   <div class="image-holder mb-2">
                     <img src="images/product-item9.webp" alt="ceramic" class="img-fluid">
                   </div>
                   <div class="product-info text-center">
                     <h3 class="  m-0">
-                      <a href="single-product.php" class="text-dark">Ceylon Cinomon Powder</a>
+                      <a href="" class="text-dark">Coming Soon</a>
                     </h3>
-                    <!-- <div class="product-price text-primary fw-medium">$14.00</div> -->
+                   <!-- <div class="product-price text-primary fw-medium">$14.00</div> -->
                   </div>
                 </div>
               </div>
-              <div class="swiper-slide image-zoom-effect">
+                  <div class="swiper-slide image-zoom-effect">
                 <div class="product-item mx-auto">
                   <div class="image-holder mb-2">
                     <img src="images/product-item10.webp" alt="ceramic" class="img-fluid">
                   </div>
                   <div class="product-info text-center">
                     <h3 class="  m-0">
-                      <a href="single-product.php" class="text-dark">Ceylon Cinomon Powder</a>
+                      <a href="" class="text-dark">Coming Soon</a>
                     </h3>
-                    <!-- <div class="product-price text-primary fw-medium">$14.00</div> -->
+                   <!-- <div class="product-price text-primary fw-medium">$14.00</div> -->
                   </div>
                 </div>
               </div>
