@@ -14,7 +14,7 @@ function clean($data) {
 $name    = clean($_POST['name'] ?? '');
 $email   = filter_var($_POST['email'] ?? '', FILTER_VALIDATE_EMAIL);
 $phone   = clean($_POST['phone'] ?? '');
-$subject = clean($_POST['subject'] ?? 'Contact Form');
+$subject = clean($_POST['subject'] ?? 'Website Contact');
 $message = clean($_POST['message'] ?? '');
 
 // Validate required fields
@@ -26,9 +26,9 @@ if (!$name || !$email || !$message) {
 /* ✅ MULTIPLE RECEIVERS */
 $to = "contact@surfux.com, Info@ceyluxeco.com";
 
-/* ✅ Sender email MUST be same domain */
-$fromEmail = "contact@surfux.com";
-$fromName  = "Surfux Website";
+/* ✅ BRANDING (THIS FIXES YOUR ISSUE) */
+$fromEmail = "Info@ceyluxeco.com";          // sender email
+$fromName  = "Ceyluxeco Exports (Pvt) Ltd"; // sender name shown in inbox
 
 // Email headers
 $headers  = "From: $fromName <$fromEmail>\r\n";
@@ -46,9 +46,9 @@ $body .= "Message:\n$message\n";
 
 // Send email
 if (mail($to, $subject, $body, $headers)) {
-    http_response_code(200); // success
+    http_response_code(200);
     exit;
 } else {
-    http_response_code(500); // failure
+    http_response_code(500);
     exit;
 }
