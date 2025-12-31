@@ -24,10 +24,10 @@ if (!$name || !$email || !$message) {
 }
 
 /* ✅ MULTIPLE RECEIVERS */
-$to = "contact@surfux.com, Info@ceyluxeco.com";
+$to = "contact@surfux.com, contact@ceyluxeco.com";
 
 /* ✅ BRANDING (THIS FIXES YOUR ISSUE) */
-$fromEmail = "Info@ceyluxeco.com";          // sender email
+$fromEmail = "contact@ceyluxeco.com";          // sender email
 $fromName  = "Ceyluxeco Exports (Pvt) Ltd"; // sender name shown in inbox
 
 // Email headers
