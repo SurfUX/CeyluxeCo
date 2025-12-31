@@ -167,7 +167,7 @@
         <h2 class="fs-2 mb-4" data-aos="fade-left">Get in Touch</h2>
         <p  data-aos="fade-left">Have a question about our products, partnerships, or exports? We’d be happy to hear from you.</p>
 
-        <form id="contactForm" action="contact.php" method="post" class="form-group contact-form mt-4"  data-aos="fade-left">
+        <form id="contactForm" action="forms/contact.php"  method="post" class="form-group contact-form mt-4"  data-aos="fade-left">
           <div class="form-input col-lg-12 d-flex justify-content-between mb-3">
             <div class="w-100 me-3">
               <label class="mb-2 fs-6 text-dark">Your Name*</label>

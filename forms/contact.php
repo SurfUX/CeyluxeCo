@@ -1,28 +1,47 @@
 <?php
 if ($_SERVER["REQUEST_METHOD"] !== "POST") {
     http_response_code(403);
-    exit;
+    exit("Forbidden");
 }
 
-$name    = htmlspecialchars(trim($_POST['name']));
-$email   = filter_var($_POST['email'], FILTER_SANITIZE_EMAIL);
-$phone   = htmlspecialchars(trim($_POST['phone'] ?? ''));
-$subject = htmlspecialchars(trim($_POST['subject'] ?? 'Contact Form'));
-$message = htmlspecialchars(trim($_POST['message']));
+function clean($data) {
+    return htmlspecialchars(strip_tags(trim($data)));
+}
 
+$name    = clean($_POST['name'] ?? '');
+$email   = filter_var($_POST['email'] ?? '', FILTER_VALIDATE_EMAIL);
+$phone   = clean($_POST['phone'] ?? '');
+$subject = clean($_POST['subject'] ?? 'Contact Form');
+$message = clean($_POST['message'] ?? '');
+
+if (!$name || !$email || !$message) {
+    exit("Required fields missing.");
+}
+
+/* ✅ YOUR RECEIVING EMAIL */
 $to = "contact@surfux.com";
-$headers = "From: $name <$email>\r\n";
+
+/* ✅ MUST BE SAME DOMAIN */
+$fromEmail = "contact@surfux.com";
+$fromName  = "Surfux Website";
+
+/* ✅ HEADERS */
+$headers  = "From: $fromName <$fromEmail>\r\n";
 $headers .= "Reply-To: $email\r\n";
-$headers .= "Content-Type: text/plain; charset=UTF-8";
+$headers .= "MIME-Version: 1.0\r\n";
+$headers .= "Content-Type: text/plain; charset=UTF-8\r\n";
 
-$body = "Name: $name\n";
+/* ✅ EMAIL BODY */
+$body  = "New Contact Form Submission\n\n";
+$body .= "Name: $name\n";
 $body .= "Email: $email\n";
-$body .= "Phone: $phone\n\n";
-$body .= "Message:\n$message";
+$body .= "Phone: $phone\n";
+$body .= "Subject: $subject\n\n";
+$body .= "Message:\n$message\n";
 
+/* ✅ SEND MAIL */
 if (mail($to, $subject, $body, $headers)) {
-    echo "Message sent successfully!";
+    echo "success";
 } else {
-    echo "Failed to send message. Please try again.";
+    echo "error";
 }
-?>
