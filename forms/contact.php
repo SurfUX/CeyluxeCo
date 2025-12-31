@@ -1,37 +1,42 @@
 <?php
+// Allow only POST requests
 if ($_SERVER["REQUEST_METHOD"] !== "POST") {
     http_response_code(403);
-    exit("Forbidden");
+    exit;
 }
 
+// Clean input function
 function clean($data) {
     return htmlspecialchars(strip_tags(trim($data)));
 }
 
+// Get form data
 $name    = clean($_POST['name'] ?? '');
 $email   = filter_var($_POST['email'] ?? '', FILTER_VALIDATE_EMAIL);
 $phone   = clean($_POST['phone'] ?? '');
 $subject = clean($_POST['subject'] ?? 'Contact Form');
 $message = clean($_POST['message'] ?? '');
 
+// Validate required fields
 if (!$name || !$email || !$message) {
-    exit("Required fields missing.");
+    http_response_code(400);
+    exit;
 }
 
-/* ✅ YOUR RECEIVING EMAIL */
+// Receiver email (must exist on Hostinger)
 $to = "contact@surfux.com";
 
-/* ✅ MUST BE SAME DOMAIN */
+// Sender email MUST be same domain
 $fromEmail = "contact@surfux.com";
 $fromName  = "Surfux Website";
 
-/* ✅ HEADERS */
+// Email headers
 $headers  = "From: $fromName <$fromEmail>\r\n";
 $headers .= "Reply-To: $email\r\n";
 $headers .= "MIME-Version: 1.0\r\n";
 $headers .= "Content-Type: text/plain; charset=UTF-8\r\n";
 
-/* ✅ EMAIL BODY */
+// Email body
 $body  = "New Contact Form Submission\n\n";
 $body .= "Name: $name\n";
 $body .= "Email: $email\n";
@@ -39,9 +44,13 @@ $body .= "Phone: $phone\n";
 $body .= "Subject: $subject\n\n";
 $body .= "Message:\n$message\n";
 
-/* ✅ SEND MAIL */
+// Send email
 if (mail($to, $subject, $body, $headers)) {
-    echo "success";
+    // ✅ SUCCESS (AJAX will handle UI)
+    http_response_code(200);
+    exit;
 } else {
-    echo "error";
+    // ❌ FAILURE
+    http_response_code(500);
+    exit;
 }
