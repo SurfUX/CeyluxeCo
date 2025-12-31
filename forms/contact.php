@@ -23,10 +23,10 @@ if (!$name || !$email || !$message) {
     exit;
 }
 
-// Receiver email (must exist on Hostinger)
-$to = "contact@surfux.com";
+/* ✅ MULTIPLE RECEIVERS */
+$to = "contact@surfux.com, Info@ceyluxeco.com";
 
-// Sender email MUST be same domain
+/* ✅ Sender email MUST be same domain */
 $fromEmail = "contact@surfux.com";
 $fromName  = "Surfux Website";
 
@@ -46,11 +46,9 @@ $body .= "Message:\n$message\n";
 
 // Send email
 if (mail($to, $subject, $body, $headers)) {
-    // ✅ SUCCESS (AJAX will handle UI)
-    http_response_code(200);
+    http_response_code(200); // success
     exit;
 } else {
-    // ❌ FAILURE
-    http_response_code(500);
+    http_response_code(500); // failure
     exit;
 }
