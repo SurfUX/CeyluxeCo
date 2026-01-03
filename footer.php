@@ -95,6 +95,9 @@
             ©2025 Ceyluxe Co. All rights reserved.
           </p>
         </div>
+        <div class="credits">
+            Designed by <a href="https://surfux.com/">SurfUX</a>
+          </div>
         <div>
           <a href="#" class="d-flex">
             <svg class="arrow-up svg-primary position-absolute" width="20" height="20">
